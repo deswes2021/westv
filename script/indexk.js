@@ -22,7 +22,7 @@
     {
         tipo: 'menu',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/activar.jpg',
-        url: 'https://tv.teleclub.xyz/activar',
+        url: 'https://tv.teleclub.xyz/activar#frm',
     },
     {
         tipo: 'menu',
