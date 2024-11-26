@@ -949,5 +949,94 @@
         tipo:'peliculas',
         url:'https://archive.org/download/mentes-peligrosas-1995-hd/mentes%20peligrosas%20%281995%20HD%29.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/westv/main/image/mentespeligrosas.jpg',
-    },    
+    },
+    {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/jovenespistoleros.jpg',
+            url: 'https://vi2.co/player/1/0/?v=6700095#frm',
+        },          
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/2mulasparasara.jpg',
+            url: 'https://vi2.co/player/1/0/?v=6622505#frm',
+        },           
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/eljinetepalido.jpg',
+            url: 'https://uqload.net/embed-n4p24h7z8cv6.html#frm',
+        },        
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/buenomalofeo.jpg',
+            url: 'https://archive.org/download/el-bueno-el-feo-y-el-malo_202409/El%20bueno%20el%20feo%20y%20el%20malo.mp4',
+        },
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/porunpunadodedolar.jpg',
+            url: 'https://archive.org/serve/tauklv20210105peliculas1964porunpunadodedolaressergioleone/Peliculas%2F%281964%29%20Por%20un%20Pu%C3%B1ado%20de%20D%C3%B3lares%20%28Sergio%20Leone%29%2F%281964%29%20Por%20un%20Pu%C3%B1ado%20de%20D%C3%B3lares%20%28Sergio%20Leone%29%201.mp4',
+        },
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/tizoc.jpg',
+            url: 'https://ia800408.us.archive.org/21/items/tizoc-pelicula-remasterizada-en-hd.-pedro-infante-maria-felix/Tizoc%20Pelicula%20Remasterizada%20En%20HD.%20Pedro%20Infante%2C%20Maria%20Felix.mp4',
+        },
+
+        
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/elclubdelapelea.jpg',
+            url: 'https://ia902201.us.archive.org/30/items/tauklv20220217pelicula1999elclubdelapeleadavidfincher/Pelicula%2F%281999%29%20El%20Club%20De%20La%20Pelea%20%28David%20Fincher%29%2F%281999%29%20El%20Club%20De%20La%20Pelea%20%28David%20Fincher%29.mp4',
+        },
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/odiseadelespacio.jpg',
+            url: 'https://ia601501.us.archive.org/15/items/tauklv20220702pelicula19682001odiseadelespaciostanleykubricj/Pelicula%2F%281968%29%202001%20Odisea%20del%20espacio%20%28Stanley%20Kubricj%29%2F%281968%29%202001%20Odisea%20del%20espacio%20%28Stanley%20Kubricj%29.mp4',
+        },        
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/grease.jpg',
+            url: 'https://ia803407.us.archive.org/13/items/tauklv20210406pelicula1978greaserandalkleiser/Pelicula%2F%281978%29%20Grease%20%28Randal%20Kleiser%29%2F%281978%29%20Grease%20%28Randal%20Kleiser%29.mp4',
+        },  
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/killbill1.jpg',
+            url: 'https://ia601801.us.archive.org/3/items/tauklv20210105peliculas2003killbillvolume1/Peliculas%2F%282003%29%20Kill%20Bill%20Volume%201%2FKill.Bill.Vol.1.Dvdrip.Latino.avi.mp4',
+        }, 
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/killbill2.jpg',
+            url: 'https://archive.org/download/tauklv20210105peliculas2004killbillvolume2/Peliculas%2F%282004%29%20Kill%20Bill%20Volume%202%2FKill.Bill.Vol.2.Dvdrip.Latino.avi.mp4',
+        }, 
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/robocop1.jpg',
+            url: 'https://ia903403.us.archive.org/13/items/tauklvpelicula1987robocopdualremastereddirectorscutpaulverhoeven/Pelicula%2F%281987%29%20Robocop%20Dual%20Remastered%20Director%27s%20Cut%20%28Paul%20Verhoeven%29%2F%281987%29%20Robocop%20Dual%20Remastered%20Director%27s%20Cut%20%28Paul%20Verhoeven%29.mp4',
+        }, 
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/jovenmanosdetijera.jpg',
+            url: 'https://ia601509.us.archive.org/3/items/tauklv20220702pelicula1990eljovenmanosdetijeratimburton/Pelicula%2F%281990%29%20El%20joven%20manos%20de%20tijera%20%28Tim%20Burton%29%2F%281990%29%20El%20joven%20manos%20de%20tijera%20%28Tim%20Burton%29.mp4',
+        }, 
+        
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lacosa.jpg',
+            url: 'https://ia804708.us.archive.org/26/items/tauklvpelicula2011lacosadelotromundomatthijsvanheijningenjr/Pelicula%2F%282011%29%20La%20Cosa%20del%20Otro%20Mundo%20%28Matthijs%20van%20Heijningen%20Jr%29%2F%282011%29%20La%20Cosa%20del%20Otro%20Mundo%20%28Matthijs%20van%20Heijningen%20Jr%29.mp4',
+        },
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/gatobotas1.jpg',
+            url: 'https://archive.org/download/tauklvpeliculaelgatoconbotas/Pelicula%2FEl%20Gato%20Con%20Botas%2F%282011%29%20El%20Gato%20con%20Botas%20%28Chris%20Miller%29%2F%282011%29%20El%20Gato%20con%20Botas%20%28Chris%20Miller%29.mp4',
+        },
+
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/peliculadehuevo1.jpg',
+            url: 'https://archive.org/download/tauklv20220813pelicula2006unapeliculadehuevosgabrielrivapalacioalatristerodolforivapalacioalatriste/Pelicula%2F%282006%29%20Una%20pel%C3%ADcula%20de%20huevos%20%28Gabriel%20Riva%20Palacio%20Alatriste%2C%20Rodolfo%20Riva%20Palacio%20Alatriste%29%2F%282006%29%20Una%20pel%C3%ADcula%20de%20huevos%20%28Gabriel%20Riva%20Palacio%20Alatriste%2C%20Rodolfo%20Riva%20Palacio%20Alatriste%29.mp4',
+        },
+        {
+            tipo: 'peliculas',
+            logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/peliculadehuevo2.jpg',
+            url: 'https://ia801400.us.archive.org/2/items/tauklv20220813pelicula2009otrapeliculadehuevosyunpollocarloszepedachehaibar/Pelicula%2F%282009%29%20Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo%20%28Carlos%20Zepeda%20Chehaibar%29%2F%282009%29%20Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo%20%28Carlos%20Zepeda%20Chehaibar%29.mp4',
+        },
 ]
