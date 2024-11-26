@@ -958,7 +958,7 @@
         {
             tipo: 'peliculas',
             logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/2mulasparasara.jpg',
-            url: 'https://fastbrisk.com/e/p9txgahdxweh,
+            url: 'https://fastbrisk.com/e/p9txgahdxweh',
         },           
         {
             tipo: 'peliculas',
@@ -980,8 +980,6 @@
             logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/tizoc.jpg',
             url: 'https://ia800408.us.archive.org/21/items/tizoc-pelicula-remasterizada-en-hd.-pedro-infante-maria-felix/Tizoc%20Pelicula%20Remasterizada%20En%20HD.%20Pedro%20Infante%2C%20Maria%20Felix.mp4',
         },
-
-        
         {
             tipo: 'peliculas',
             logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/elclubdelapelea.jpg',
