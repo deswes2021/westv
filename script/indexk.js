@@ -958,7 +958,7 @@
         {
             tipo: 'peliculas',
             logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/2mulasparasara.jpg',
-            url: 'https://vi2.co/player/1/0/?v=6622505#frm',
+            url: 'https://fastbrisk.com/e/p9txgahdxweh,
         },           
         {
             tipo: 'peliculas',
