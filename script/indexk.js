@@ -944,5 +944,10 @@
         tipo:'peliculas',
         url:'https://ia801606.us.archive.org/34/items/el-gato-con-botas_202303/d366571db1e3cb2cdac8e971c5688bbc-720p_compressed.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/westv/main/image/gatobotas2.jpg',
-    },     
+    },
+    {
+        tipo:'peliculas',
+        url:'https://archive.org/download/mentes-peligrosas-1995-hd/mentes%20peligrosas%20%281995%20HD%29.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/westv/main/image/mentespeligrosas.jpg',
+    },    
 ]
