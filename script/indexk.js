@@ -898,201 +898,201 @@
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/porunosdolares.jpg',
-        url: '22LUQT2MuXk'
+        url: '22LUQT2MuXk#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/elbuenoelmaloyelfeo.jpg',
-        url: 'NXVSV4UKz-4'
+        url: 'NXVSV4UKz-4#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/elultimopistolero.jpg',
-        url: 'IZ_vtx3kC4s'
+        url: 'IZ_vtx3kC4s#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lavenganzadefrankjames.jpg',
-        url: '_emI0fhXszw'
+        url: '_emI0fhXszw#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/barroenlosojos.jpg',
-        url: 'Q_yYNKUwTc8'
+        url: 'Q_yYNKUwTc8#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unmalditoamanecer.jpg',
-        url: '-UoUvcu5lGk'
+        url: '-UoUvcu5lGk#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lamuertenocuentalosdolares.jpg',
-        url: '5FA2MXpUMWw'
+        url: '5FA2MXpUMWw#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lasombradesartana.jpg',
-        url: 'ycW9U9eQ5Rs'
+        url: 'ycW9U9eQ5Rs#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/másalládelaley.jpg',
-        url: 'Uq0ChAeYO5w'
+        url: 'Uq0ChAeYO5w#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/django.jpg',
-        url: 'PJoIQcBl4QU'
+        url: 'PJoIQcBl4QU#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/regresoacasadeunvaquero.jpg',
-        url: 'fSJmNgkCqks'
+        url: 'fSJmNgkCqks#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unhombreuncaballounapistola.jpg',
-        url: 'GyoMx-kkWaw'
+        url: 'GyoMx-kkWaw#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/los4defortapache.jpg',
-        url: 'QhtmoKK44FQ'
+        url: 'QhtmoKK44FQ#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unagujeroenlafrente.jpg',
-        url: 'p2xqPYogeIw'
+        url: 'p2xqPYogeIw#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/justiciacalibre45.jpg',
-        url: 'DzUvg9y5Hac'
+        url: 'DzUvg9y5Hac#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lellamabantrinidad.jpg',
-        url: 'ChzXUUU76lg'
+        url: 'ChzXUUU76lg#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/leseguianllamandotrinidad.jpg',
-        url: 'fMMOFkqGj_0'
+        url: 'fMMOFkqGj_0#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/elhombredeladiligencia.jpg',
-        url: 'Ez8_j6DDzlQ'
+        url: 'Ez8_j6DDzlQ#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unvaqueromuertonoesunvaquero.jpg',
-        url: 'raRR1C_YF-8'
+        url: 'raRR1C_YF-8#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/ringovuelveparamatar.jpg',
-        url: 'e_nxEk1G9Kg'
+        url: 'e_nxEk1G9Kg#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/dueloenelbarro.jpg',
-        url: 'CCGYDkerli0'
+        url: 'CCGYDkerli0#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/123disparaestavez.jpg',
-        url: 'F7Y2sqi_GXM'
+        url: 'F7Y2sqi_GXM#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/laleydelahorca.jpg',
-        url: 'jCvCYtlZ49E'
+        url: 'jCvCYtlZ49E#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/kidblue.jpg',
-        url: 'ImGL5OyNVJI'
+        url: 'ImGL5OyNVJI#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/eljugador.jpg',
-        url: 'c_D4pH73BaE'
+        url: 'c_D4pH73BaE#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/danzaconlobos.jpg',
-        url: 'WGx8LvOsSQ0'
+        url: 'WGx8LvOsSQ0#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/latumba.jpg',
-        url: 'VnpWsNNS0Z4'
+        url: 'VnpWsNNS0Z4#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/KirkDouglasOeste.jpg',
-        url: 'coIuejnBxFg'
+        url: 'coIuejnBxFg#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/aliadosimprobables.jpg',
-        url: '5YeeIcHEJTo'
+        url: '5YeeIcHEJTo#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/elsheriftraidor.jpg',
-        url: 'G40EhRUBYQQ'
+        url: 'G40EhRUBYQQ#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/sinperdon.jpg',
-        url: 'aDIZcOSdnfc'
+        url: 'aDIZcOSdnfc#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/perrossucios.jpg',
-        url: 'EE1DNIQ6-go'
+        url: 'EE1DNIQ6-go#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/puedesamigo.jpg',
-        url: 'iwQIz7_5oOk'
+        url: 'iwQIz7_5oOk#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/fueradetiempo.jpg',
-        url: 'qlnIqcw-7Sc'
+        url: 'qlnIqcw-7Sc#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/trinidadysartana.jpg',
-        url: 'Ej9TvNhZbwk'
+        url: 'Ej9TvNhZbwk#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/ahorcado.jpg',
-        url: 'EkcZ96_G254'
+        url: 'EkcZ96_G254#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/tuverdugo.jpg',
-        url: 'bh801UK-kv8'
+        url: 'bh801UK-kv8#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/sangreenlatierra.jpg',
-        url: '1vS_tBbqnIk'
+        url: '1vS_tBbqnIk#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unacoltenlamanodeldiablo.jpg',
-        url: '4pgIObGuCrY'
+        url: '4pgIObGuCrY#ytb'
     },
     {
         tipo: 'peliculas',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/quiengritavenganza.jpg',
-        url: 'MfKAyo-'
+        url: 'MfKAyo-#ytb'
     },
 ]
