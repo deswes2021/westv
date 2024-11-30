@@ -1139,5 +1139,10 @@
         tipo: 'moviewestern',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/sagitario.jpg',
         url: 'Y4TuwWW7lRo.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/westernpeligroso.jpg',
+        url: '3LCZsuQ1Dc0.ytb'
     },    
 ]
