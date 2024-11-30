@@ -1130,4 +1130,9 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/quiengritavenganza.jpg',
         url: 'MfKAyo-#ytb'
     },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/legendbillielnino.jpg',
+        url: 'V56eP9G6698#ytb'
+    },    
 ]
