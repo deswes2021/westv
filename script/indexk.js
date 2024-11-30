@@ -1134,5 +1134,10 @@
         tipo: 'moviewestern',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/legendbillielnino.jpg',
         url: 'V56eP9G6698.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/sagitario.jpg',
+        url: 'Y4TuwWW7lRo.ytb'
     },    
 ]
