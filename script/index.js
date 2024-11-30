@@ -1,8 +1,49 @@
-$(document).ready(() => {
-    $('body').css({ backgroundColor: 'black', margin: 0, padding: 0 });
-    actknl();
-});
-
-function actknl(){
-  alert('666');
-};
+[
+    /*--MENUS--*/
+    {
+        tipo:'menu',
+        logo:'',
+        url:'nacional',
+    },
+    {
+        tipo:'menu',
+        logo:'',
+        url:'infantil',
+    },
+    {
+        tipo:'menu',
+        logo:'',
+        url:'variado',
+    },
+    {
+        tipo:'menu',
+        logo:'',
+        url:'premium',
+    },    
+    {
+        tipo:'menu',
+        logo:'',
+        url:'opciones',
+    },
+    {
+        tipo:'menu',
+        logo:'',
+        url:'deportes',
+    },
+    {
+        tipo:'menu',
+        logo:'',
+        url:'peliculas',
+    },
+    {
+        tipo:'menu',
+        logo:'',
+        url:'247',
+    },
+    {
+        tipo:'menu',
+        logo:'',
+        url:'musica',
+    },    
+    /*--MENUS--*/
+]
