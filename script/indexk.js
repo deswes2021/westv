@@ -37,7 +37,7 @@
     {
         tipo: 'menu',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/peliculas.jpg',
-        url: 'peliculas',
+        url: 'movie',
     },
     {
         tipo: 'menu',
