@@ -1250,5 +1250,11 @@
         tipo: 'moviecomedia',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/dondeestanlasrubias.jpg',
         url: 'XraLK514Po8.ytb'
-    },    
+    },
+    {
+        tipo: 'moviecomedia',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/spydespistada.jpg',
+        url: 'i5ImONquFds.ytb'
+    },
+    
 ]
