@@ -1244,5 +1244,11 @@
         tipo: 'moviewestern',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/rapidoylamuerte.jpg',
         url: 'eL2Zj_ODvIE.ytb'
+    },
+    /*---comedias---*/
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/dondeestanlasrubias.jpg',
+        url: 'XraLK514Po8.ytb'
     },    
 ]
