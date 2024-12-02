@@ -925,6 +925,21 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefantasia.jpg',
         url: 'moviefantasia'
     },
+    {
+        tipo: 'movie',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewar.jpg',
+        url: 'moviewar'
+    },
+    {
+        tipo: 'movie',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieaccion.jpg',
+        url: 'movieaccion'
+    },    
+    {
+        tipo: 'movie',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg',
+        url: 'movieacomedia'
+    },    
     /*-------------------------------------------------------------------------------------------------*/
     /*-------------------------------------------------------------------------------------------------*/
     /*-------------------------------------------------------------------------------------------------*/
