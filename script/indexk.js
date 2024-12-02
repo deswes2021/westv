@@ -1159,5 +1159,85 @@
         tipo: 'moviewestern',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/westernpeligroso.jpg',
         url: '3LCZsuQ1Dc0.ytb'
-    },    
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/westbrother.jpg',
+        url: '9jGSejS0mak.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/padremurai.jpg',
+        url: 'ySHHK11NRzg.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/riomaldito.jpg',
+        url: '3JgPlDGg4RQ.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/colinadebotas.jpg',
+        url: 'UAFo-RkQM3o.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/elborde.jpg',
+        url: '4sVl6R42v54.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lagranja.jpg',
+        url: 'FRK3_OkTyqs.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/otroladodeley.jpg',
+        url: 'fiKg-4XSR3g.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/apachekid.jpg',
+        url: 'A1d2ew6Y-d0.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/elvengador.jpg',
+        url: 'HZnHCu2i6Cc.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/fiebredepradera.jpg',
+        url: 'cLpWouaOx8k.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/frankyjessi.jpg',
+        url: 'XrC-6BTNjhM.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/malditoinvierno.jpg',
+        url: '-UoUvcu5lGk.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/duelomortal.jpg',
+        url: 'cjPkpjqXPN0.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/sinaliento.jpg',
+        url: 'Me_J3c2VSdA.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/oromaldito.jpg',
+        url: '4cgD60meH88.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/loquieromuerto.jpg',
+        url: 'L3CMFyAJP1Y.ytb'
+    },
 ]
