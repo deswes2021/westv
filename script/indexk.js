@@ -1240,4 +1240,9 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/loquieromuerto.jpg',
         url: 'L3CMFyAJP1Y.ytb'
     },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/rapidoylamuerte.jpg',
+        url: 'eL2Zj_ODvIE.ytb'
+    },    
 ]
