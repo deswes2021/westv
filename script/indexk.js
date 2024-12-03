@@ -940,6 +940,11 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg',
         url: 'moviecomedia'
     },
+    {
+        tipo: 'movie',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movievariado.jpg',
+        url: 'movievariado'
+    },    
     /*-------------------------------------------------------------------------------------------------*/
     /*-------------------------------------------------------------------------------------------------*/
     /*-------------------------------------------------------------------------------------------------*/
@@ -1276,6 +1281,8 @@
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/sacrificiofinal.jpg', url: 'ttzynHVaE4s.ytb' },
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/5diasdeguerra.jpg', url: 'j8BgyiUqSSU.ytb' },
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/1914frenteoccidental.jpg', url: 'PB4D5yFN2dg.ytb' },
+    
+    { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/1989sv.jpg', url: 'RHwooe3nFCE.ytb' }, 
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/vocesinocentes.jpg', url: 'hQy453pK5bk.ytb' },
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/sobreviviendoguazapa.jpg', url: 'OTk8oLXJNiM.ytb' },
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/almasdehierro.jpg', url: 'qytWjSC8e0o.ytb' },
@@ -1301,6 +1308,11 @@
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/fantasmasdeguerra.jpg', url: 'bjUt6ALO4JM.ytb' },
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/talibans.jpg', url: 'AUri0KULgHk.ytb' },
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/hiroshima.jpg', url: '5JbdrAVLvS8.ytb' },
+    { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/ultimotrenauschwitz.jpg', url: '2yZUplpZ0xY.ytb' },
+    { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/guardiadeauschwitz.jpg', url: 'VvHdig2bMXw.ytb' },
+    { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/diariodeanafrank.jpg', url: 'zBV2uN8Zcjg.ytb' },
+    { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/profpersa.jpg', url: 'Gd674X9fqtQ.ytb' },
+    { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/angeldeauschwitz.jpg', url: 'POHpohU0sGg.ytb' },
     /*-----familiares----*/
     { tipo: 'moviefamiliar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lenyelperro.jpg', url: 'itUzTS-j4B4.ytb' },
     { tipo: 'moviefamiliar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/caballocampeon.jpg', url: 'sOvojtQKivg.ytb' },
@@ -1351,4 +1363,10 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lacocinademelisa.jpg',
         url: 'k8zo3-3obNw.ytb'
     },
+ /*---variado---*/
+    {
+        tipo: 'movievariado',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/amoryfrijoles.jpg',
+        url: 'UOx6guR1v54.ytb'
+    },    
 ]
