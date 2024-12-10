@@ -1362,6 +1362,26 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/filadecruces.jpg',
         url: 'x1Q3D7ju2bI.ytb'
     },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/venganzaindia.jpg',
+        url: 'kwLzgVTG1ik.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lasjusticieras.jpg',
+        url: 'mYFfJKBJNU4.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/vidacriminal.jpg',
+        url: 'Q8pIrvjEsDU.ytb'
+    },
+    {
+        tipo: 'moviewestern',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/reveldearizona.jpg',
+        url: 'HbOUTU-7Xbg.ytb'
+    },
     /*--warsmovies------------------*/
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unionbound.jpg', url: '23vSIMEyJs4.ytb' },
     { tipo: 'moviewar', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/warsrace.jpg', url: '6CxBeAXQiYs.ytb' },
