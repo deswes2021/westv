@@ -1256,7 +1256,7 @@
     { tipo: 'moviewestern', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/shriftmandibula.jpg', url: 'aDmW2gJWlKs.ytb' },
     { tipo: 'moviewestern', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/atravesdelhuracan.jpg', url: '5BPyw9UJvAQ.ytb' },
     { tipo: 'moviewestern', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/dinamitajoe.jpg', url: 'tQHKf6zXUlM.ytb' },
-    { tipo: 'moviewestern', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/eltirador.jpg', url: 'A8Igcf96vuw.ytb' },
+    { tipo: 'moviewestern', logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/eltirador.jpg', url: 'fH1VGUSS4Ec.ytb' },
     {
         tipo: 'moviewestern',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/weslegend.jpg',
