@@ -1955,13 +1955,7 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/40mas.jpg',
         url: 'iCClkuzitv0.ytb'
     },
-    /*---variado---*/
-    {
-        tipo: 'movievariado',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/amoryfrijoles.jpg',
-        url: 'UOx6guR1v54.ytb'
-    },
-    /*----solo para iframe-----*/
+    /*----MOVIES ANIME-----*/
     {
         tipo: 'movieanime',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/toystory4.jpg',
@@ -2267,5 +2261,47 @@
         tipo: 'movieanime',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/coraline.jpg',
         url: 'https://filemoon.sx/d/qjomislhxhgc'
+    },
+    /*---VARIADO---*/
+    {
+        tipo: 'movievariado',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/amoryfrijoles.jpg',
+        url: 'UOx6guR1v54.ytb'
+    },
+    /*---FICCION---*/
+    {
+        tipo: 'movieficcion',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/deadpoolwolverine.jpg',
+        url: 'https://filemoon.sx/d/qmxsreepxg9u'
+    },
+        {
+        tipo: 'movieficcion',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/watchmen.jpg',
+        url: 'https://filemoon.sx/d/vqd12xw6gt0h'
+    },
+    {
+        tipo: 'movieficcion',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/aliensromulos.jpg',
+        url: 'https://filemoon.sx/d/zzprv4a3z96z'
+    },
+    {
+        tipo: 'movieficcion',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/borderlands.jpg',
+        url: 'https://filemoon.sx/d/2to2xy8eohhk'
+    },
+    {
+        tipo: 'movieficcion',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/furiosapli.jpg',
+        url: 'https://filemoon.sx/d/wmadcib42us0'
+    },
+    {
+        tipo: 'movieficcion',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/transformer6.jpg',
+        url: 'https://filemoon.sx/d/f3dxaxdhx2yt'
+    },
+    {
+        tipo: 'movieficcion',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/madanweb.jpg',
+        url: 'https://filemoon.sx/d/iqjbj02c5l5r'
     },
 ]
