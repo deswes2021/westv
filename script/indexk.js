@@ -1980,7 +1980,7 @@
     {
         tipo: 'movieanime',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/megamente1.jpg',
-        url: 'https://voe.sx/bduiqxcnvjgm'
+        url: 'https://voe.sx/e/bduiqxcnvjgm'
     },
     
 ]
