@@ -2230,42 +2230,42 @@
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/unanocheenmuseo1.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unanocheenmuseo1.jpg',
         url: ''
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/unanocheenmuseo2.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unanocheenmuseo2.jpg',
         url: ''
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/unanocheenmuseo3.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/unanocheenmuseo3.jpg',
         url: 'https://filemoon.sx/d/x7earalupfm6'
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/cofredemidas.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/cofredemidas.jpg',
         url: 'https://filemoon.sx/d/48g87buahcyj'
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/persijackson1.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/persijackson1.jpg',
         url: 'https://filemoon.sx/d/so41xnzxem2v'
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/persijackson2.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/persijackson2.jpg',
         url: ''
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/ozelpoderoso.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/ozelpoderoso.jpg',
         url: 'https://filemoon.sx/d/w3c04opwda7u'
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/coraline.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/coraline.jpg',
         url: 'https://filemoon.sx/d/qjomislhxhgc'
     },
 ]
