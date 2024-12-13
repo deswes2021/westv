@@ -1977,5 +1977,295 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/pliarenitamejillas.jpg',
         url: 'https://filemoon.sx/d/xo0spum1tjvz'
     },
-    
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/megamente.jpg',
+        url: 'https://filemoon.sx/d/qytnmsbdzpzi'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/enredados.jpg',
+        url: 'https://filemoon.sx/d/9pq27rytdlxf'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/enredados2.jpg',
+        url: ''
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lluviadehambur1.jpg',
+        url: ''
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lluviadehambur2.jpg',
+        url: 'https://filemoon.sx/d/4upgky7lsqrn'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/hoteltransilvania1.jpg',
+        url: 'https://filemoon.sx/d/wqjmigycglv1'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/hoteltransilvania2.jpg',
+        url: 'https://filemoon.sx/d/orelt1it4yyb'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/ralfdemoledor.jpg',
+        url: 'https://filemoon.sx/d/6zadoz6o9ffn'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/villanofavorito1.jpg',
+        url: 'https://filemoon.sx/d/syrs8mudyqiz'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/villanofavorito2.jpg',
+        url: 'https://filemoon.sx/d/81j965s473pw'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/villanofavorito3.jpg',
+        url: 'https://filemoon.sx/d/qtmqz1e2prfb'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/croods1.jpg',
+        url: 'https://filemoon.sx/d/jhpxv6fzlyka'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/croods2.jpg',
+        url: ''
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/bobsponja.jpg',
+        url: 'https://filemoon.sx/d/kl8s8cnejite'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/pliarenitamejillas.jpg',
+        url: 'https://filemoon.sx/d/xo0spum1tjvz'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/desendientes2.jpg',
+        url: 'https://filemoon.sx/d/b3zmyh91y4ah'
+    },
+
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/desendientes3.jpg',
+        url: 'https://filemoon.sx/d/ae848xxgoj0l'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/desendientesred.jpg',
+        url: 'https://filemoon.sx/d/gw0bom14ippi'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/wonka.jpg',
+        url: 'https://filemoon.sx/d/vqgnza6l7uqv'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/minions1.jpg',
+        url: 'https://filemoon.sx/d/7fw36usxiazb'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/minions2.jpg',
+        url: 'https://filemoon.sx/d/n9aii7i3uwm0'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/intensamente1.jpg',
+        url: 'https://filemoon.sx/d/xeit0tjxxd8d'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/intensamente2.jpg',
+        url: ''
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/encanto.jpg',
+        url: 'https://filemoon.sx/d/9du9s4iuhob8'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/amadrinhada.jpg',
+        url: 'https://filemoon.sx/d/deskal8d0xg3'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/magiccamp.jpg',
+        url: 'https://filemoon.sx/d/8arov1ln6g8f'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/jinglejangle.jpg',
+        url: 'https://filemoon.sx/d/848m7x4j803l'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lasbrujas.jpg',
+        url: 'https://filemoon.sx/d/znpuismqi8zd'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/nineracazamonstruos.jpg',
+        url: 'https://filemoon.sx/d/jf6j1ep4q2t4'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/catsdog3.jpg',
+        url: 'https://filemoon.sx/d/7l1hf1wjrxgt'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/larvaisland.jpg',
+        url: 'https://filemoon.sx/d/k9visc1hl7by'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/dolittle.jpg',
+        url: 'https://filemoon.sx/d/j8ryi6oy8drh'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/malefica.jpg',
+        url: 'https://filemoon.sx/d/vq2u7frcuw8j'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/reyleon.jpg',
+        url: 'https://filemoon.sx/d/zgsxuvk08uhv'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lapqnatraviesa.jpg',
+        url: 'https://filemoon.sx/d/oxxmk3zp2pfl'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/aladin1.jpg',
+        url: 'https://filemoon.sx/d/o4l7zwdbufr9'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/dumbo.jpg',
+        url: 'https://filemoon.sx/d/6cd7hguktgvr'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/nacidopararey.jpg',
+        url: 'https://filemoon.sx/d/feojm6c9nlq2'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/regresodemarypopin.jpg',
+        url: 'https://filemoon.sx/d/b8w493r9qrt5'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/cascanueces.jpg',
+        url: 'https://filemoon.sx/d/94gvkv49m8mz'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/increibles2.jpg',
+        url: 'https://filemoon.sx/d/g2bitb3s4co4'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/benji.jpg',
+        url: 'https://filemoon.sx/d/8fd0yabegrjs'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/labellaybestia.jpg',
+        url: 'https://filemoon.sx/d/4fmdstz7l22h'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/animalesfantasticos.jpg',
+        url: 'https://filemoon.sx/d/fnhufxug9fkz'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/mipapaesungato.jpg',
+        url: 'https://filemoon.sx/d/79ve5678sn2p'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/aliciaatravesdelespejo.jpg',
+        url: 'https://filemoon.sx/d/wqucibor12px'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/lacenicienta.jpg',
+        url: 'https://filemoon.sx/d/2jy9vbrqwlyl'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/librodelaselva.jpg',
+        url: 'https://filemoon.sx/d/v1f575c0g7xq'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/reinodelosmonos.jpg',
+        url: 'https://filemoon.sx/d/bc6yyk3g97cb'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/peterpan.jpg',
+        url: 'https://filemoon.sx/d/a0kdx3917k7n'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/unanocheenmuseo1.jpg',
+        url: ''
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/unanocheenmuseo2.jpg',
+        url: ''
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/unanocheenmuseo3.jpg',
+        url: 'https://filemoon.sx/d/x7earalupfm6'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/cofredemidas.jpg',
+        url: 'https://filemoon.sx/d/48g87buahcyj'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/persijackson1.jpg',
+        url: 'https://filemoon.sx/d/so41xnzxem2v'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/persijackson2.jpg',
+        url: ''
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/ozelpoderoso.jpg',
+        url: 'https://filemoon.sx/d/w3c04opwda7u'
+    },
+    {
+        tipo: 'movieanime',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/coraline.jpg',
+        url: 'https://filemoon.sx/d/qjomislhxhgc'
+    },
 ]
