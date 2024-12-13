@@ -1961,8 +1961,6 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/amoryfrijoles.jpg',
         url: 'UOx6guR1v54.ytb'
     },
-
-
     /*----solo para iframe-----*/
     {
         tipo: 'movieanime',
