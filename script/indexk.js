@@ -1969,18 +1969,13 @@
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/intensamente2.jpg',
-        url: 'https://filemoon.sx/d/fu1nl2h5n7vf'
-    },
-    {
-        tipo: 'movieanime',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/villanofavorito4.jpg',
         url: 'https://filemoon.sx/d/x9zi4xyikhf8'
     },
     {
         tipo: 'movieanime',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/megamente1.jpg',
-        url: 'https://sandratableother.com/bduiqxcnvjgm'
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/pliarenitamejillas.jpg',
+        url: 'https://filemoon.sx/d/xo0spum1tjvz'
     },
     
 ]
