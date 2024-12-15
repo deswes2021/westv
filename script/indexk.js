@@ -36,13 +36,63 @@
     },
     {
         tipo: 'menu',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/peliculas.jpg',
-        url: 'movie',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/musica.jpg',
+        url: 'musica',
     },
     {
         tipo: 'menu',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/musica.jpg',
-        url: 'musica',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewestern.jpg',
+        url: 'moviewestern'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieanime.jpg',
+        url: 'movieanime'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefamiliar.jpg',
+        url: 'moviefamiliar'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviehorror.jpg',
+        url: 'moviehorror'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieficcion.jpg',
+        url: 'movieficcion'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefantasia.jpg',
+        url: 'moviefantasia'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewar.jpg',
+        url: 'moviewar'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieaccion.jpg',
+        url: 'movieaccion'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg',
+        url: 'moviecomedia'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movievariado.jpg',
+        url: 'movievariado'
+    },
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviexxx.jpg',
+        url: 'moviexxx'
     },
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
@@ -892,62 +942,6 @@
         url: 'http://tv.teleclub.xyz/club/server_2/musica/toplatino/index.m3u8',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/toplatino.jpg',
     },
-    /*--------------------------------------------------------------------------------------------------------*/
-    /*--------------------------------------------------------------------------------------------------------*/
-    /*---PELICULAS----*/
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewestern.jpg',
-        url: 'moviewestern'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieanime.jpg',
-        url: 'movieanime'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefamiliar.jpg',
-        url: 'moviefamiliar'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviehorror.jpg',
-        url: 'moviehorror'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieficcion.jpg',
-        url: 'movieficcion'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefantasia.jpg',
-        url: 'moviefantasia'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewar.jpg',
-        url: 'moviewar'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieaccion.jpg',
-        url: 'movieaccion'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg',
-        url: 'moviecomedia'
-    },
-    {
-        tipo: 'movie',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/movievariado.jpg',
-        url: 'movievariado'
-    },
-    /*-------------------------------------------------------------------------------------------------*/
-    /*-------------------------------------------------------------------------------------------------*/
-    /*-------------------------------------------------------------------------------------------------*/
     /*-------------------------------------------------------------------------------------------------*/
     /*---moviewestern--*/
     {
