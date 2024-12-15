@@ -1,6 +1,11 @@
 [
     {
         tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg',
+        url: 'herr',
+    },
+    {
+        tipo: 'menu',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg',
         url: 'nacionales',
     },
@@ -18,11 +23,6 @@
         tipo: 'menu',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg',
         url: 'premium',
-    },
-    {
-        tipo: 'menu',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg',
-        url: 'herr',
     },
     {
         tipo: 'menu',
