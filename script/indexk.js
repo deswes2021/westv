@@ -21,8 +21,8 @@
     },
     {
         tipo: 'menu',
-        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/activar.jpg',
-        url: 'https://tv.teleclub.xyz/activar',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg',
+        url: 'herr',
     },
     {
         tipo: 'menu',
@@ -93,6 +93,17 @@
         tipo: 'menu',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviexxx.jpg',
         url: 'moviexxx'
+    },
+    /*-------------------------*/
+    {
+        tipo: 'herr',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/activar.jpg',
+        url: 'https://tv.teleclub.xyz/activar',
+    },
+    {
+        tipo: 'herr',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/actualizar.jpg',
+        url: '/actualizar',
     },
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
