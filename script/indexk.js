@@ -43,6 +43,11 @@
         tipo: 'menu',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewestern.jpg',
         url: 'moviewestern'
+    },    
+    {
+        tipo: 'menu',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/moviemarvel.jpg',
+        url: 'moviemarvel'
     },
     {
         tipo: 'menu',
@@ -2309,4 +2314,9 @@
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/madanweb.jpg',
         url: 'https://filemoon.sx/d/iqjbj02c5l5r'
     },
+    {
+        tipo: 'moviemarvel',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelendgame2.jpg',
+        url: 'https://zq62mmaomhqa.premilkyway.com/hls2/01/00732/pbzadhot777m_n/master.m3u8?t=h8ptFXpLEUCfHU62MYO5AOOaT5TFm0p2n09T2N1Og1U&s=1734472824&e=129600&f=3661786&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=27773.jwp'
+    }    
 ]
