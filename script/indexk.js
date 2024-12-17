@@ -2322,6 +2322,6 @@
     {
         tipo: 'moviemarvel',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelthorrag.jpg',
-        url: 'ps://g9hb6ahmf6ejy.premilkyway.com/hls2/01/00732/vwa5knb4ryu0_o/master.m3u8?t=HQctK8ARVo401q5gDABRDSuULnKZVWgSr8PlruQKWgw&s=1734474372&e=129600&f=3660621&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=27773.jwp'
+        url: 'https://g9hb6ahmf6ejy.premilkyway.com/hls2/01/00732/vwa5knb4ryu0_o/master.m3u8?t=HQctK8ARVo401q5gDABRDSuULnKZVWgSr8PlruQKWgw&s=1734474372&e=129600&f=3660621&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=27773.jwp'
     } 
 ]
