@@ -2318,5 +2318,10 @@
         tipo: 'moviemarvel',
         logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelendgame2.jpg',
         url: 'https://zq62mmaomhqa.premilkyway.com/hls2/01/00732/pbzadhot777m_n/master.m3u8?t=h8ptFXpLEUCfHU62MYO5AOOaT5TFm0p2n09T2N1Og1U&s=1734472824&e=129600&f=3661786&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=27773.jwp'
-    }    
+    },
+    {
+        tipo: 'moviemarvel',
+        logo: 'https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelthorrag.jpg',
+        url: 'ps://g9hb6ahmf6ejy.premilkyway.com/hls2/01/00732/vwa5knb4ryu0_o/master.m3u8?t=HQctK8ARVo401q5gDABRDSuULnKZVWgSr8PlruQKWgw&s=1734474372&e=129600&f=3660621&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=27773.jwp'
+    } 
 ]
