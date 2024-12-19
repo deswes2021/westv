@@ -2,48 +2,63 @@
     /*--MENUS--*/
     {
         tipo:'menu',
-        logo:'',
-        url:'nacional',
+        logo:'herramientas.jpg',
+        url:'herramientas',
     },
     {
         tipo:'menu',
-        logo:'',
-        url:'infantil',
+        logo:'nacionales.jpg',
+        url:'nacionales',
     },
     {
         tipo:'menu',
-        logo:'',
-        url:'variado',
+        logo:'infantiles.jpg',
+        url:'infantiles',
     },
     {
         tipo:'menu',
-        logo:'',
-        url:'premium',
-    },    
-    {
-        tipo:'menu',
-        logo:'',
-        url:'opciones',
+        logo:'variados.jpg',
+        url:'variados',
     },
     {
         tipo:'menu',
-        logo:'',
+        logo:'premiums.jpg',
+        url:'premiums',
+    },
+    {
+        tipo:'menu',
+        logo:'deportes.jpg',
         url:'deportes',
     },
     {
         tipo:'menu',
-        logo:'',
-        url:'peliculas',
+        logo:'moviefamiliar.jpg',
+        url:'moviefamiliar',
     },
     {
         tipo:'menu',
-        logo:'',
-        url:'247',
+        logo:'movieanime.jpg',
+        url:'movieanime',
     },
     {
         tipo:'menu',
-        logo:'',
-        url:'musica',
-    },    
-    /*--MENUS--*/
+        logo:'moviewestern.jpg.',
+        url:'moviewestern',
+    },
+    {
+        tipo:'menu',
+        logo:'moviefantasia.jpg.',
+        url:'moviefantasia',
+    },
+    {
+        tipo:'menu',
+        logo:'movieaccion.jpg.',
+        url:'movieaccion',
+    },
+    {
+        tipo:'menu',
+        logo:'movieterror.jpg.',
+        url:'movieterror',
+    },
+      /*--MENUS--*/
 ]
