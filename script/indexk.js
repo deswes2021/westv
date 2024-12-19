@@ -2028,6 +2028,11 @@
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "movieficcion",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficciontransformeruno.jpg",
+        url: "https://82psw98llfa.premilkyway.com/hls2/01/05197/1asvqufc5kzp_,l,n,.urlset/master.m3u8?t=KEte8llRsFDlmXt3NkiSR8RyPNpztXhUNwiUXtqC4k0&s=1734626139&e=129600&f=25987427&srv=3FjgDmcnea8S35m&i=0.0&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=27773"
+    },
+    {
+        tipo: "movieficcion",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionpredator.jpg",
         url: "https://m5qilv3g2l.premilkyway.com/hls2/01/00730/d2nr0lzg5fus_n/master.m3u8?t=iEvSU4zSUcPSyV9GTcHrXahgRlYmIUfzLfAcbeKMWPI&s=1734584227&e=129600&f=3652577&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=27773"
     },
