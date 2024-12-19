@@ -1,6 +1,8 @@
 [
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MENUS---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "menu",
@@ -98,7 +100,9 @@
         url: "moviexxx"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---OPCIONES---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "herr",
@@ -111,7 +115,9 @@
         url: "/actualizar"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---NACIONALES---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "nacionales",
@@ -161,7 +167,9 @@
         url: "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---INFANTILES---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "infantiles",
@@ -234,7 +242,9 @@
         url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---VARIADOS---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "variados",
@@ -467,7 +477,9 @@
         url: "http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---PREMIUMS---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "premium",
@@ -690,7 +702,9 @@
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/teleclasik.jpg"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---DEPORTES---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "deportes",
@@ -868,7 +882,9 @@
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/winsportsplus.jpg"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---247---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "247",
@@ -911,7 +927,9 @@
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/pitufos247.jpg"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MUSICA---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "musica",
@@ -959,7 +977,9 @@
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/toplatino.jpg"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIEWESTERN---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "moviewestern",
@@ -1422,7 +1442,9 @@
         url: "HbOUTU-7Xbg.ytb"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIEWAR---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "moviewar",
@@ -1700,7 +1722,9 @@
         url: "POHpohU0sGg.ytb"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIEFAMILIAR---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "moviefamiliar",
@@ -1898,7 +1922,9 @@
         url: "eJE4d4fDp6s.ytb"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIEFANTASIA---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "moviefantasia",
@@ -1946,7 +1972,9 @@
         url: "ShyUTIx7_hE.ytb"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIECOMEDIA---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "moviecomedia",
@@ -1974,15 +2002,19 @@
         url: "iCClkuzitv0.ytb"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIEANIME---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "movieanime",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/toystory4.jpg",
         url: ""
-    },    
+    },
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIEVARIADO---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "movievariado",
@@ -1990,11 +2022,118 @@
         url: "UOx6guR1v54.ytb"
     },
     /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIEFICCION---*/
+    /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "movieficcion",
-        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/deadpoolwolverine.jpg",
-        url: ""
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionpredator.jpg",
+        url: "https://m5qilv3g2l.premilkyway.com/hls2/01/00730/d2nr0lzg5fus_n/master.m3u8?t=iEvSU4zSUcPSyV9GTcHrXahgRlYmIUfzLfAcbeKMWPI&s=1734584227&e=129600&f=3652577&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=27773"
     },
+    {
+        tipo: "movieficcion",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionpredatorlapresa.jpg",
+        url: "https://jturq6cd3wcv.premilkyway.com/hls2/01/00731/j32h7m51m5bi_n/master.m3u8?t=qs97mTNDx5sNj3JPMltRCP1yFKm_fpn2B-bu2Ad-mz8&s=1734589489&e=129600&f=3655082&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=27773"
+    }, 
+    {
+        tipo: "movieficcion",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionalienromulos.jpg",
+        url: "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05128/xnx3im559fcl_n/master.m3u8?t=OL4sxeLaS_fBY61ae3cwOpGaH38Umju5_NFy6dItUi0&s=1734584882&e=129600&f=25644054&srv=3FjgDmcnea8S35m&i=0.0&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=27773"
+    },
+    /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
+    /*---MOVIEMARVEL---*/
+    /*--------------------------------------------------------------------------------------------------------*/
+    /*--------------------------------------------------------------------------------------------------------*/
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelendgame.jpg",
+        url: "https://zq62mmaomhqa.premilkyway.com/hls2/01/00732/pbzadhot777m_n/master.m3u8?t=h8ptFXpLEUCfHU62MYO5AOOaT5TFm0p2n09T2N1Og1U&s=1734472824&e=129600&f=3661786&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelthorrag.jpg",
+        url: "https://g9hb6ahmf6ejy.premilkyway.com/hls2/01/00732/vwa5knb4ryu0_o/master.m3u8?t=HQctK8ARVo401q5gDABRDSuULnKZVWgSr8PlruQKWgw&s=1734474372&e=129600&f=3660621&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelthorlove.jpg",
+        url: "https://iuytvygtuo.premilkyway.com/hls2/01/00732/k07uq0vjsppu_n/master.m3u8?t=a5AZN6lKCHenCHuI96J02z8Lmqtbpz_PuPu4fjEhpL8&s=1734589975&e=129600&f=3660638&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=27773"
+    },    
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelacuaman.jpg",
+        url: "https://jturq6cd3wcv.premilkyway.com/hls2/01/00728/6sdk210imk5q_n/master.m3u8?t=KahRSxHVlHxvYWp6YOgpPBq_z-rvA3HfoIoRt71gwgk&s=1734583017&e=129600&f=3641971&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marveljusticeleage.jpg",
+        url: "https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/00730/otvngmbhi1yw_n/master.m3u8?t=94tx1UklgMI3Tc1MafaZXO2ONCpLDQ1b7Sma00Z5oLA&s=1734583403&e=129600&f=3651520&srv=3FjgDmcnea8S35m&i=0.0&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelvenon.jpg",
+        url: "https://ts09ruf2imyzcv.premilkyway.com/hls2/01/00732/44d38ic5rmcf_n/master.m3u8?t=ga9aLYlsYYsbFiD9wlaT_o4wPyjsUzLKnXr6KDulA98&s=1734583741&e=129600&f=3661957&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelvenon2.jpg",
+        url: "https://in1rhjc5cqhz.premilkyway.com/hls2/01/07249/gtvkkn0ovccc_n/master.m3u8?t=WvBvpO7_vtWjqqi4lpnjqicOkz8DOayOPXsE7DFabFk&s=1734584344&e=129600&f=36285039&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marveldeathpoolwolverine.jpg",
+        url: "https://eomoacrfcwpd.premilkyway.com/hls2/01/05033/akzfn5wu8e5d_n/master.m3u8?t=icZQi7ujg9V5uvtmVW5nefRabKppnXIEkAQT7JO01aM&s=1734584549&e=129600&f=25169533&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelspidermanlotus.jpg",
+        url: "https://jturq6cd3wcv.premilkyway.com/hls2/01/02580/9bii451spkdi_n/master.m3u8?t=8Ek1g5-AdoI76s4V76BTle6cPlH3xTNjCOljgPgSUq8&s=1734585051&e=129600&f=12900751&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelspidermannowayhome.jpg",
+        url: "https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/00731/kdxjj97habxp_o/master.m3u8?t=07UGlbWb1AsksX0mmG7iO2L7ezx_6ocg0lNC_Y5lnXY&s=1734586330&e=129600&f=3659010&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelguardianaesgalaxia3.jpg",
+        url: "https://g44vkq39mr49.premilkyway.com/hls2/01/00729/81jneyo6hwep_o/master.m3u8?t=WdVkyJG3lEVp7r-a5XvrUYSwoo5yZjiMJ4b5x_sm52o&s=1734585425&e=129600&f=3649543&srv=KsLkgBWej56z&i=0.0&sp=500&p1=KsLkgBWej56z&p2=KsLkgBWej56z&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelantmanquantumania.jpg",
+        url: "https://cuyyro04xrqrh.premilkyway.com/hls2/01/00728/iq72gechq4e6_n/master.m3u8?t=lAdJXBKIYteQ7MrRCPgQmdoftLeKp2Dvax5jkJd291U&s=1734585590&e=129600&f=3641192&srv=za19kpiaw6i&i=0.0&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelhellboycrookman.jpg",
+        url: "https://cyyroro04xrqr.premilkyway.com/hls2/01/05430/kqmcefegxj0f_n/master.m3u8?t=6Tj6GHH4FMTnSe5Y-uaIsFlG-G2rrRXkBVJ3mukyLrc&s=1734588180&e=129600&f=27154965&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelmadanweb.jpg",
+        url: "https://cxhkzbihnc.premilkyway.com/hls2/01/03330/kakt3ihvh1m2_n/master.m3u8?t=Mycsx8nOLV6jIvm2ZHNbO-88XvhjBgDLb_xQTY0eTIw&s=1734588649&e=129600&f=16653053&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marveltheflash.jpg",
+        url: "https://y3id30d5fhc38.premilkyway.com/hls2/01/00732/5ytjyrwbhm08_n/master.m3u8?t=rbPubyntHrIKxfkQTZH9mf1QpOxtUEmLzDhboWOnHsE&s=1734588905&e=129600&f=3660150&srv=pg8s50jw8kzp&i=0.0&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelshazan2.jpg",
+        url: "https://x8oi6owwkjoewr.premilkyway.com/hls2/01/00731/3cb4wh9rnibh_n/master.m3u8?t=5Eb9Dk7c4uPrAYuc5bO_VcKJafuowiIRQnMYFseIiDc&s=1734589195&e=129600&f=3657905&srv=6Y0nzgZi8BCfuhZ&i=0.0&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelblackadam.jpg",
+        url: "https://x8oi6owwkjoewr.premilkyway.com/hls2/01/00728/xrbmd298q3wk_n/master.m3u8?t=x2BnWLC7aF0ULTP8-HfI3sihUdGc7_PXH2-Dn5VmWXk&s=1734589645&e=129600&f=3642520&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marveldrstranelocula.jpg",
+        url: "https://6wyav2r9i6j.premilkyway.com/hls2/01/00728/yqh467r37bp5_o/master.m3u8?t=HaNbxmy0Lkxb9BJLTvvyTCiGAh8oefeutlC-cJM-NEI&s=1734590392&e=129600&f=3644778&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=27773"
+    }    
 ]
