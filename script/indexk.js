@@ -1949,7 +1949,7 @@
     {
         tipo: "movieanime",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/animeshrek1.jpg",
-        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/01/05400/ac003e75at8t_h/master.m3u8?t=ithPMZQFgGwSrxnlTSFY3ie54EcNxC9ur3BvahxcYAA&s=1734631778&e=10800&f=28914340&srv=05&asn=27773&sp=4000&p="
+        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/01/05400/ac003e75at8t_h/master.m3u8?t=P7IP4Zxq3jzTraONG8nx_EZfoJbMPL-w2QSvimEgtXE&s=1734663920&e=10800&f=28914340&srv=05&asn=27773&sp=4000&p="
     },
     {
         tipo: "movieanime",
@@ -1959,7 +1959,7 @@
     {
         tipo: "movieanime",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/animeshrek3.jpg",
-        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/04627/lpn6dl68h2me_h/master.m3u8?t=t00GY_SS046Fr99n34kYFn--XNNXqpZMJyGEFXEElBY&s=1734633145&e=10800&f=29636869&srv=04&asn=27773&sp=4000&p="
+        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/04627/lpn6dl68h2me_h/master.m3u8?t=Uxp6uzwTAfCcWqm1BWDo-IrTKnYPqUWbA1YUih00PQk&s=1734663986&e=10800&f=29636869&srv=04&asn=27773&sp=4000&p="
     },
     {
         tipo: "movieanime",
@@ -1979,27 +1979,27 @@
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadopiratascaribe1.jpg",
-        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/01/05425/soesp3zynm6u_h/master.m3u8?t=RcndLZL4fe0XTZhOZy4sV9qIECPfr8no2cOtPG1mz94&s=1734631270&e=10800&f=31542487&srv=26&asn=27773&sp=4000&p="
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/01/05425/soesp3zynm6u_h/master.m3u8?t=LnVlWT_wKDF6PKi9mG-nYA70a2HMI1uhv7NEdMqFVeM&s=1734661593&e=10800&f=31542487&srv=26&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadopiratascaribe2.jpg",
-        url: ""
+        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/05534/ufmamn5e68mr_h/master.m3u8?t=Fg296HxXi5s1m5XB2ZrJ_4QvdBXk63Rqy9bEbvXU1Rk&s=1734661685&e=10800&f=27674486&srv=20&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadopiratascaribe3.jpg",
-        url: ""
+        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/05534/xljbuscspccc_h/master.m3u8?t=gqhlaRDsROE4TEP9obdSb18BMVzKye3fqvh_UAdqQXM&s=1734662287&e=10800&f=27674936&srv=20&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadopiratascaribe4.jpg",
-        url: ""
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/02/05535/roq0ipcp56uo_h/master.m3u8?t=5E17JwPnA8wX6sVNZu1O62krEvLPwU54VpxJw_l9BkI&s=1734662456&e=10800&f=27675825&srv=29&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadopiratascaribe5.jpg",
-        url: ""
+        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/02/04792/oboct6lkv70b_x/master.m3u8?t=TYObeO7mfJ4MjRXo3K0nXaSZXYslRHttUEhGRPVLMbE&s=1734662522&e=10800&f=34482069&srv=31&asn=27773&sp=5500&p="
     },
     {
         tipo: "movievariado",
@@ -2019,17 +2019,17 @@
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadovolveralfuturo1.jpg",
-        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/03/04580/39xu5nybqc13_h/master.m3u8?t=3pIluYOtWAWotib6AYAqvG_GGx4ARuo6zVaMyWSYDSU&s=1734630770&e=10800&f=36653477&srv=30&asn=27773&sp=4000&p="
+        url: ""
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadovolveralfuturo2.jpg",
-        url: ""
+        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/01/04580/muw2cmrc1ty4_h/master.m3u8?t=K2IqQCpiSWBRprMd00rnzSvkR8KK0ek2QVR4p0qe9cE&s=1734660539&e=10800&f=27854269&srv=28&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadovolveralfuturo3.jpg",
-        url: ""
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/02/04580/9ajf9x9c19im_h/master.m3u8?t=wWjIsOzzp5bh3kQq5i3LvNXGQed7lUAJCIOPjQcyh4E&s=1734660649&e=10800&f=27854393&srv=29&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
@@ -2038,33 +2038,48 @@
     },
     {
         tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoanimalesfantasticos1.jpg",
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/02/05112/f9gijaycg8ta_x/master.m3u8?t=l70vYoCO7QwFEOhfBlKjwvrITGSBNq5pbGFi9k2iuZo&s=1734664683&e=10800&f=31147313&srv=52&asn=27773&sp=5500&p="
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoanimalesfantasticos2.jpg",
+        url: "https://be6721.rcr72.waw04.cdn255.com/hls2/03/04333/k6tw3qapqw13_h/master.m3u8?t=_fdn6VBJuAHMuXKAsimhcGQ46yBUIURH_TFqZvbnWWk&s=1734665052&e=10800&f=31282231&srv=31&asn=27773&sp=4000&p="
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoanimalesfantasticos3.jpg",
+        url: "https://be6721.rcr72.waw04.cdn255.com/hls2/01/07182/cr0x1xauclhv_h/master.m3u8?t=Fq2liN8rUfV0MdVaOjhc_CPdgkhe9UOA0VqA5sZYQNs&s=1734665121&e=10800&f=37905459&srv=16&asn=27773&sp=4000&p="
+    },
+    {
+        tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoharrypt1.jpg",
-        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/03/05369/zezda7vrjpkx_h/master.m3u8?t=9iHfht4db8q9XqAE23YOlEY8kUW6LvNwOh2fJSxM22I&s=1734627599&e=10800&f=34718464&srv=52&asn=27773&sp=4000&p="
+        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/03/05369/zezda7vrjpkx_h/master.m3u8?t=bKH15Hr5NgMW-Wv81CGrp-5LWePIghJBvUBx29HAiXc&s=1734660255&e=10800&f=34718464&srv=52&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoharrypt2.jpg",
-        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/03/05374/7ahgw5c1aelp_,h,o,.urlset/master.m3u8?t=EVWQtaOPq27gHim0MNyW9pWsUAkR2kpU1Wf_WJdWkdg&s=1734629718&e=10800&f=34718465&srv=31&asn=27773&sp=4000&p="
+        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/03/05374/7ahgw5c1aelp_,h,o,.urlset/master.m3u8?t=rKko48t8Mxm1M7uvGDlx9Fw-JAjUhrx74BCpUsGRWIM&s=1734660160&e=10800&f=34718465&srv=31&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoharrypt3.jpg",
-        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/01/05375/0wv7qeiye7yh_h/master.m3u8?t=t5IPL6pR2vYrdIRZPgdrmI6lZMJ8313neIuvl2Dww_0&s=1734630386&e=10800&f=34718469&srv=28&asn=27773&sp=4000&p="
+        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/01/05375/0wv7qeiye7yh_h/master.m3u8?t=f9eH7ta5Ollp7mnIqjn5Zuv2NVb58tCxa5RLEeUiyAU&s=1734660062&e=10800&f=34718469&srv=28&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoharrypt4.jpg",
-        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/05369/h72krmg4eku7_h/master.m3u8?t=0RuxKGqghDVndcw2O2TlWzF1oOq0AOGAvgj2vwV0Is8&s=1734632336&e=10800&f=31282127&srv=14&asn=27773&sp=4000&p="
+        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/05369/h72krmg4eku7_h/master.m3u8?t=B8pJjORBYnb7yTKP52bepsykZkK2NFYDe_10uFv51ZI&s=1734659956&e=10800&f=31282127&srv=14&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoharrypt5.jpg",
-        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/05375/zkmlblz7vu1k_h/master.m3u8?t=_grZ52yAQuQo4AOhDSNXWVg8z2cxBC5QwgUKVWo6veo&s=1734632048&e=10800&f=34715044&srv=36&asn=27773&sp=4000&p="
+        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/05375/zkmlblz7vu1k_h/master.m3u8?t=-zE9PcOdOmIS55i5Gvxsqe9f_ay1hWE51dp5K8H_JqY&s=1734659876&e=10800&f=34715044&srv=36&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoharrypt6.jpg",
-        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/01/05375/4xzgtb7aq7po_h/master.m3u8?t=C5pHAPKK5DsMy3UyQY66ILyHSSlKUISQjHccIz96K8A&s=1734630660&e=10800&f=34718472&srv=46&asn=27773&sp=4000&p="
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/01/05375/4xzgtb7aq7po_h/master.m3u8?t=Zias2lb_ms4nZz7aKl91_261zX_bJY-wcA-5llQktIc&s=1734659604&e=10800&f=34718472&srv=46&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
@@ -2074,7 +2089,7 @@
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadoharrypt8.jpg",
-        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/05375/9t1eywt3iled_h/master.m3u8?t=CqFu6RHERrx2RSM9kSSpEAseSd38wivr9qu3O6c0nUM&s=1734632858&e=10800&f=34718470&srv=49&asn=27773&sp=4000&p="
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/01/05375/9t1eywt3iled_h/master.m3u8?t=A6zGSCgR-mDa75XfvjWaf13q-lNu8JKsWZRWKvNjMjE&s=1734659334&e=10800&f=34718470&srv=49&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
@@ -2094,7 +2109,7 @@
     {
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variadogladiador.jpg",
-        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/05369/fw3fshn4pocv_,h,o,.urlset/master.m3u8?t=HwvttVF0nvzEWdugVYp6CN4aBGL1WjsKSZX5nyk88Dw&s=1734626857&e=10800&f=38132021&srv=17&asn=27773&sp=4000&p="
+        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/05369/fw3fshn4pocv_,h,o,.urlset/master.m3u8?t=rPMcJLVwHMvCJLzKMIoA5KrSo18m0xi3zB4rz4zb69I&s=1734660367&e=10800&f=38132021&srv=17&asn=27773&sp=4000&p="
     },
     {
         tipo: "movievariado",
@@ -2248,8 +2263,13 @@
     /*--------------------------------------------------------------------------------------------------------*/
     {
         tipo: "moviemarvel",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelininitewar.jpg",
+        url: "https://uE3vHGHuoyMj.acek-cdn.com/hls2/01/01186/4r0sste4j1e0_n/master.m3u8?t=poL6dycTrLWCbuHYXUCMKWJvx9-7mKhkDq5yknjbaFs&s=1734663625&e=129600&f=5931388&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=27773"
+    },
+    {
+        tipo: "moviemarvel",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelendgame.jpg",
-        url: "https://zq62mmaomhqa.premilkyway.com/hls2/01/00732/pbzadhot777m_n/master.m3u8?t=h8ptFXpLEUCfHU62MYO5AOOaT5TFm0p2n09T2N1Og1U&s=1734472824&e=129600&f=3661786&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=27773"
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/01/05134/drs8ujyyzfns_,x,o,.urlset/master.m3u8?t=ZTRXYeYGPUCwpsz_Ob56XJwLoyHo8thOXYHPFMPb9EE&s=1734663793&e=10800&f=38131298&srv=26&asn=27773&sp=5500&p="
     },
     {
         tipo: "moviemarvel",
@@ -2284,12 +2304,12 @@
     {
         tipo: "moviemarvel",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marveldeathpool1.jpg",
-        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/05691/7h5v4vna2bji_h/master.m3u8?t=nwbEUr03-b6MyRJ3ZHGOb8eoJKugo_nEE0ryCdzQC1I&s=1734629888&e=10800&f=36218719&srv=34&asn=27773&sp=4000&p="
+        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/05691/7h5v4vna2bji_h/master.m3u8?t=hhXVGMzvRLiD-0Ni2QZW1XpbKPb_DRP8c_edR5tk4tE&s=1734662777&e=10800&f=36218719&srv=34&asn=27773&sp=4000&p="
     },
     {
         tipo: "moviemarvel",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marveldeathpool2.jpg",
-        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/05691/vqx3worzcapm_h/master.m3u8?t=t3Wm61gH0obJCfbdHJ6sAtg2oB6RwZOPZoV10lP3AU8&s=1734630076&e=10800&f=37503833&srv=40&asn=27773&sp=4000&p="
+        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/05691/vqx3worzcapm_h/master.m3u8?t=8jtzhPAUAsMT_o7yjLUN2hbWOQU16C8Hyb7i3zL0eik&s=1734662869&e=10800&f=37503833&srv=40&asn=27773&sp=4000&p="
     },   
     {
         tipo: "moviemarvel",
@@ -2299,17 +2319,17 @@
     {
         tipo: "moviemarvel",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelspiderman1.jpg",
-        url: ""
+        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/01/04791/728dzgvxiiwu_x/master.m3u8?t=JHAd6SL66_Dwk04N_hDD7D0jor86IdjaTpRpzAvqrYA&s=1734663326&e=10800&f=27862131&srv=39&asn=27773&sp=5500&p="
     },
     {
         tipo: "moviemarvel",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelspiderman2.jpg",
-        url: "https://be7713.rcr82.waw05.cdn255.com/hls2/01/04696/ql6ii9sfigss_h/master.m3u8?t=QZPJsXGrgJ4G7o6EgUQZhCGcKTnApGv-fMn7EgH7g6o&s=1734631419&e=10800&f=23483124&srv=23&asn=27773&sp=4000&p="
+        url: "https://be6721.rcr72.waw04.cdn255.com/hls2/01/04696/ql6ii9sfigss_h/master.m3u8?t=ldOhzefDBy8fBtvKTtvCq-Gs2bhA4zkM-O0h1xRtXCE&s=1734663468&e=10800&f=23483124&srv=23&asn=27773&sp=4000&p="
     },
     {
         tipo: "moviemarvel",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelspiderman3.jpg",
-        url: ""
+        url: "https://be6721.rcr72.waw04.cdn255.com/hls2/02/06190/j6dvetk7di4m_n/master.m3u8?t=dAEzTaLRXy3NSEtF0iioz4xBfFz-6ya_EpetRL2Fof4&s=1734663015&e=10800&f=30954337&srv=53&asn=27773&sp=4000&p="
     },
     
     {
