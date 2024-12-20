@@ -2243,6 +2243,31 @@
     },
     {
         tipo: "movieficcion",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionpredator1.jpg",
+        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/04476/bg7768n66wz9_h/master.m3u8?t=Otx9EnpluyLoT29CL8r4XAd30P6C_aWpdVy4DW7trEc&s=1734667711&e=10800&f=31297002&srv=36&asn=27773&sp=4000&p="
+    },
+    {
+        tipo: "movieficcion",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionpredator2.jpg",
+        url: "https://be4235.rcr32.ams02.cdn255.com/hls2/01/04476/8628frz8km33_h/master.m3u8?t=gbrWPpBQ5N1nvWs_HTGalGNzsLphsksJaO-dwZuzTgQ&s=1734667773&e=10800&f=31153065&srv=36&asn=27773&sp=4000&p="
+    },
+    {
+        tipo: "movieficcion",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionavp1.jpg",
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/01/04476/k4pxv6kj4kee_h/master.m3u8?t=KJiNunfukuQShptiI--mb6jEMbiG4Toje-vsraDPSM0&s=1734667195&e=10800&f=31139004&srv=32&asn=27773&sp=4000&p="
+    },
+    {
+        tipo: "movieficcion",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionavp2.jpg",
+        url: "https://be4242.rcr52.ams03.cdn255.com/hls2/01/04476/6wqr0zcdpkw5_h/master.m3u8?t=hydZlA-i7-Ezy1hJTBkvENonY3yY0k577wwZqSFIKrw&s=1734667299&e=10800&f=27855625&srv=32&asn=27773&sp=4000&p="
+    },
+    {
+        tipo: "movieficcion",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionadepredadores.jpg",
+        url: "https://be2719.rcr22.ams01.cdn255.com/hls2/01/04476/9aaim94pyek4_h/master.m3u8?t=dfcaKaWdELJm8MeMAb-cD6bxsMIraIGU4I_Q6tS7sF0&s=1734667407&e=10800&f=27658888&srv=36&asn=27773&sp=4000&p="
+    },
+    {
+        tipo: "movieficcion",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionpredator.jpg",
         url: "https://m5qilv3g2l.premilkyway.com/hls2/01/00730/d2nr0lzg5fus_n/master.m3u8?t=iEvSU4zSUcPSyV9GTcHrXahgRlYmIUfzLfAcbeKMWPI&s=1734584227&e=129600&f=3652577&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=27773"
     },
