@@ -2003,7 +2003,7 @@
     },
     { 
         tipo: "movieanine", 
-        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/vampildracula.jpg", 
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/vampirehunter.jpg", 
         url: "D_J-nr6GcFY.ytb" 
     },
     { 
@@ -2013,7 +2013,7 @@
     },
     { 
         tipo: "movieanine", 
-        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/dantes%20inferno.jpg", 
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/dantesinferno.jpg", 
         url: "OelibyLx6jM.ytb" 
     },
     { 
