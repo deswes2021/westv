@@ -1957,82 +1957,82 @@
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/planetadeltesoro.jpg", 
         url: "qGtY_O5ioUE.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/birdslikeus.jpg", 
         url: "347kxf8pGzA.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/rikibuscacuerno.jpg", 
         url: "qtsde0Fodtc.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/dbzsuperbroly.jpg", 
         url: "YcNIFi9ocNM.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/inuyasha1.jpg", 
         url: "AN2NhRHHtpo.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/inuyasha2.jpg", 
         url: "YH7I80xznyY.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/inuyasha3.jpg", 
         url: "GiT2gX3f7h8.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/bleach2.jpg", 
         url: "kQMxFzwdsV4.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/bleach4.jpg", 
         url: "L2E4ELz_AkI.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/vampirehunter.jpg", 
         url: "D_J-nr6GcFY.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/blame.jpg", 
         url: "oafUsF4LqfA.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/dantesinferno.jpg", 
         url: "OelibyLx6jM.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/narutoninjaroad.jpg", 
         url: "FzRH5Iaa8Uc.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/narutoprisiondesangre.jpg", 
         url: "SCYlPNUTaOc.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/onepiecegold.jpg", 
         url: "h2oFTsH64EM.ytb" 
     },
     { 
-        tipo: "movieanine", 
+        tipo: "movieanime", 
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/redline.jpg", 
         url: "nQH47RD25Gc.ytb" 
     },    
