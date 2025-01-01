@@ -264,7 +264,7 @@
     {
         tipo: "variados",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/holaplay.jpg",
-        url: "https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8"
+        url: ""
     },
     {
         tipo: "variados",
