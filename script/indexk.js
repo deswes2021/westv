@@ -221,6 +221,11 @@
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/cinekids.jpg",
         url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506"
     },
+    {
+        tipo: "infantiles",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/maxanime.jpg",
+        url: "https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8"
+    },
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*---VARIADOS---*/
@@ -2080,5 +2085,50 @@
         tipo: "movievariado",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/jhonwick4.jpg",
         url: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"
-    }, 
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/smariobros1.jpg",
+        url: "https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4"
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/guardianesgalaxia3.jpg",
+        url: "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Guardianes%20de%20la%20Galaxia%20volumen%203%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/cravencazador.jpg",
+        url: "https://s31.gamovideo.com:444/fbap46t2bvnv3h2yugjn34sznkykpfarfrrd4dfkch567nhdnhlqpa5fgita/v.mp4"
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/wicked.jpg",
+        url: "https://s35.gamovideo.com:444/enap4hspbvnv3h2yugi53mqem6ltb643ntiudcnv2lnkh3gzoqgvdvkpwbyq/v.mp4"
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/hellboy2024.jpg",
+        url: "https://s32.gamovideo.com:444/ezap44ffbznv3h2yugln32qmm6j4dkpstwkopop7uz357rkxsvxaz6j6k4cq/v.mp4"
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/venon2.jpg",
+        url: "https://s30.gamovideo.com:444/ffap4affbznv3h2yugln3ospo7ivrz6raiklioxjcaoolo5ka3cgrjzbpq6a/v.mp4"
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/mufasa.jpg",
+        url: "https://s30.gamovideo.com:444/ffap5q3cbvnv3h2yugjn3zsem7ar5npun4h7p73vf2bashljaajcz5cqe7tq/v.mp4"
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/transformeruno.jpg",
+        url: "https://s31.gamovideo.com:444/fbap4vevbznv3h2yugkn3o2qpzoplsifnabupm5etfy5lwp2ojunkgeo7x3q/v.mp4"
+    },
+    {
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/borderland.jpg",
+        url: "https://s26.gamovideo.com:444/frap5ewkbznv3h2yugnn352kfck7zxvah47uwhxxzb7hsnlp3fdfg3omh5tq/v.mp4"
+    }
 ]
