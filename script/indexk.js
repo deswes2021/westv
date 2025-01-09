@@ -51,11 +51,6 @@
     },
     {
         tipo: "menu",
-        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviemarvel.jpg",
-        url: "moviemarvel"
-    },
-    {
-        tipo: "menu",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/movieanime.jpg",
         url: "movieanime"
     },
@@ -71,11 +66,6 @@
     },
     {
         tipo: "menu",
-        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/movieficcion.jpg",
-        url: "movieficcion"
-    },
-    {
-        tipo: "menu",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewar.jpg",
         url: "moviewar"
     },
@@ -88,11 +78,6 @@
         tipo: "menu",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/musica.jpg",
         url: "musica"
-    },    
-    {
-        tipo: "menu",
-        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviexxx.jpg",
-        url: "moviexxx"
     },
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
@@ -2091,24 +2076,9 @@
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/laninasinmagia.jpg",
         url: "ShyUTIx7_hE.ytb"
     },
-    /*--------------------------------------------------------------------------------------------------------*/
-    /*--------------------------------------------------------------------------------------------------------*/
-    /*---MOVIEFICCION---*/
-    /*--------------------------------------------------------------------------------------------------------*/
-    /*--------------------------------------------------------------------------------------------------------*/
     {
-        tipo: "movieficcion",
-        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/ficcionterminator1.jpg",
-        url: ""
-    },
-    /*--------------------------------------------------------------------------------------------------------*/
-    /*--------------------------------------------------------------------------------------------------------*/
-    /*---MOVIEMARVEL---*/
-    /*--------------------------------------------------------------------------------------------------------*/
-    /*--------------------------------------------------------------------------------------------------------*/
-    {
-        tipo: "moviemarvel",
-        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/marvelininitewar.jpg",
-        url: ""
-    },  
+        tipo: "movievariado",
+        logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/jhonwick4.jpg",
+        url: "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4"
+    }, 
 ]
