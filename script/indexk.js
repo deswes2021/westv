@@ -123,7 +123,7 @@
     {
         tipo: "nacionales",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal6.jpg",
-        url: "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
+        url: ""
     },
     {
         tipo: "nacionales",
@@ -133,8 +133,7 @@
     {
         tipo: "nacionales",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal12.jpg",
-        url: "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8",
-        url2: "https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8"
+        url: "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
     },
     {
         tipo: "nacionales",
