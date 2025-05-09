@@ -118,7 +118,7 @@
     {
         tipo: "nacionales",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal4.jpg",
-        url: ""
+        url: "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
     },
     {
         tipo: "nacionales",
