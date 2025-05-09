@@ -154,7 +154,7 @@
     {
         tipo: "infantiles",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/cartoonnetwork.jpg",
-        url: "http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8"
+        url: "http://tv.teleclub.xyz/stream/server_3/infantil/cartoonnetwork/master.m3u8"
     },
     {
         tipo: "infantiles",
@@ -169,7 +169,7 @@
     {
         tipo: "infantiles",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/disneyjr.jpg",
-        url: "http://tv.teleclub.xyz/club/server_2/infantil/disneyjr/index.m3u8"
+        url: "http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8"
     },
     {
         tipo: "infantiles",
