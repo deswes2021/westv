@@ -118,12 +118,12 @@
     {
         tipo: "nacionales",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal4.jpg",
-        url: "https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/.m3u8"
+        url: ""
     },
     {
         tipo: "nacionales",
         logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal6.jpg",
-        url: ""
+        url: "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
     },
     {
         tipo: "nacionales",
