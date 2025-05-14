@@ -5,8 +5,8 @@
 herr
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg" group-title="Menu", Teleclub
 nacionales
-#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/infantiles.jpg" group-title="Menu", Teleclub
-infantiles
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/infantileses.jpg" group-title="Menu", Teleclub
+infantileses
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/variados.jpg" group-title="Menu", Teleclub
 variados
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg" group-title="Menu", Teleclub
@@ -75,24 +75,24 @@ http://tv.teleclub.xyz/stream/server_2/deportes/tudn/master.m3u8
 http://tv.teleclub.xyz/stream/server_2/deportes/tycsports/master.m3u8
 #EXTINF:-1 tvg-id="winsportsplus_2" tvg-logo="https://img.teleclub.xyz/winsportsplus.png" group-title="Deportes", Win Sports Plus
 http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork_3" tvg-logo="http://img.teleclub.xyz/cartoonnetwork.png" group-title="infantil", Cartoon Network
-http://tv.teleclub.xyz/stream/server_3/infantil/cartoonnetwork/master.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork_1" tvg-logo="http://img.teleclub.xyz/cartoonnetwork.png" group-title="infantil", Cartoon Network
-http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
-#EXTINF:-1 tvg-id="cartoonito_1" tvg-logo="http://img.teleclub.xyz/cartoonito.png" group-title="infantil", Cartoonito
-http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
-#EXTINF:-1 tvg-id="discoverykids_1" tvg-logo="http://img.teleclub.xyz/discoverykids.png" group-title="infantil", Discovery Kids
-http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
-#EXTINF:-1 tvg-id="disney_channel_1" tvg-logo="http://img.teleclub.xyz/disneychannel.png" group-title="infantil", Disney Channel
-http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8
-#EXTINF:-1 tvg-id="disney_jr_1" tvg-logo="http://img.teleclub.xyz/disneyjr.png" group-title="infantil", Disney Jr
-http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
-#EXTINF:-1 tvg-id="energeek_retro_0" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/energeekstream.png" group-title="infantil", Energeek Retro
-http://tv.teleclub.xyz/stream/server_0/infantil/energeek_retro/master.m3u8
-#EXTINF:-1 tvg-id="nick_1" tvg-logo="http://img.teleclub.xyz/nick.png" group-title="infantil", Nick
-http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
-#EXTINF:-1 tvg-id="tooncast_1" tvg-logo="http://img.teleclub.xyz/tooncast.png" group-title="infantil", Tooncast
-http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork_3" tvg-logo="http://img.teleclub.xyz/cartoonnetwork.png" group-title="infantiles", Cartoon Network
+http://tv.teleclub.xyz/stream/server_3/infantiles/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork_1" tvg-logo="http://img.teleclub.xyz/cartoonnetwork.png" group-title="infantiles", Cartoon Network
+http://tv.teleclub.xyz/stream/server_1/infantiles/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="cartoonito_1" tvg-logo="http://img.teleclub.xyz/cartoonito.png" group-title="infantiles", Cartoonito
+http://tv.teleclub.xyz/stream/server_1/infantiles/cartoonito/master.m3u8
+#EXTINF:-1 tvg-id="discoverykids_1" tvg-logo="http://img.teleclub.xyz/discoverykids.png" group-title="infantiles", Discovery Kids
+http://tv.teleclub.xyz/stream/server_1/infantiles/discoverykids/master.m3u8
+#EXTINF:-1 tvg-id="disney_channel_1" tvg-logo="http://img.teleclub.xyz/disneychannel.png" group-title="infantiles", Disney Channel
+http://tv.teleclub.xyz/stream/server_1/infantiles/disney_channel/master.m3u8
+#EXTINF:-1 tvg-id="disney_jr_1" tvg-logo="http://img.teleclub.xyz/disneyjr.png" group-title="infantiles", Disney Jr
+http://tv.teleclub.xyz/stream/server_1/infantiles/disney_jr/master.m3u8
+#EXTINF:-1 tvg-id="energeek_retro_0" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/energeekstream.png" group-title="infantiles", Energeek Retro
+http://tv.teleclub.xyz/stream/server_0/infantiles/energeek_retro/master.m3u8
+#EXTINF:-1 tvg-id="nick_1" tvg-logo="http://img.teleclub.xyz/nick.png" group-title="infantiles", Nick
+http://tv.teleclub.xyz/stream/server_1/infantiles/nick/master.m3u8
+#EXTINF:-1 tvg-id="tooncast_1" tvg-logo="http://img.teleclub.xyz/tooncast.png" group-title="infantiles", Tooncast
+http://tv.teleclub.xyz/stream/server_1/infantiles/tooncast/master.m3u8
 #EXTINF:-1 tvg-id="atv_1" tvg-logo="https://img.teleclub.xyz/atvl.png" group-title="variados", ATV
 http://tv.teleclub.xyz/stream/server_1/variados/atv/master.m3u8
 #EXTINF:-1 tvg-id="azteca7_1" tvg-logo="https://img.teleclub.xyz/azteca7.png" group-title="variados", Azteca 7
