@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg" group-title="Menu", Teleclub
+herr
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg" group-title="Menu", Teleclub
+nacionales
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/infantiles.jpg" group-title="Menu", Teleclub
+infantiles
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/variados.jpg" group-title="Menu", Teleclub
+variados
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg" group-title="Menu", Teleclub
+premium
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/deportes.jpg" group-title="Menu", Teleclub
+deportes
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/247.jpg" group-title="Menu", Teleclub
+247
+
+  
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://img.teleclub.xyz/evento.png" group-title="Eventos", Teleclub
 http://tv.teleclub.xyz/stream/server_0/eventos/evento01/master.m3u8
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
