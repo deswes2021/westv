@@ -1,4 +1,3 @@
-var cirk = `
 #EXTINF: nombre="herr" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg" tipo="menu" url="herr"
 #EXTINF: nombre="nacionales" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg" tipo="menu" url="nacionales"
 #EXTINF: nombre="infantiles" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/infantiles.jpg" tipo="menu" url="infantiles"
@@ -165,4 +164,3 @@ var cirk = `
 #EXTINF: nombre="lossimpsons_1" logo="https://img.teleclub.xyz/lossimpsons.png" tipo="24x7", Los Simpsons url="http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8"
 #EXTINF: nombre="padrinosmagicos_1" logo="https://img.teleclub.xyz/padrinosmagicos.png" tipo="24x7", Padrinos Magícos url="http://tv.teleclub.xyz/stream/server_1/24x7/padrinosmagicos/master.m3u8"
 #EXTINF: nombre="southpark_1" logo="https://img.teleclub.xyz/southpark.png" tipo="24x7", South Park url="http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8"
-`
