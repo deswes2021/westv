@@ -5,8 +5,8 @@
 herr
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg" group-title="Menu", Teleclub
 nacionales
-#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/infantileses.jpg" group-title="Menu", Teleclub
-infantileses
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/infantiles.jpg" group-title="Menu", Teleclub
+infantiles
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/variados.jpg" group-title="Menu", Teleclub
 variados
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg" group-title="Menu", Teleclub
