@@ -1,4 +1,17 @@
 #EXTM3U
+/*-------------------------------------------------------------------------------------------------------------------------*/
+/*---MENU---*/
+/*-------------------------------------------------------------------------------------------------------------------------*/
+#EXTINF: nombre="herr" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg" tipo="menu" url="herr"
+#EXTINF: nombre="nacionales" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg" tipo="menu" url="nacionales"
+#EXTINF: nombre="infantiles" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/infantiles.jpg" tipo="menu" url="infantiles"
+#EXTINF: nombre="variados" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/variados.jpg" tipo="menu" url="variados"
+#EXTINF: nombre="premium" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg" tipo="menu" url="premium"
+#EXTINF: nombre="deportes" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/deportes.jpg" tipo="menu" url="deportes"
+#EXTINF: nombre="247" logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/247.jpg" tipo="menu" url="247"
+/*-------------------------------------------------------------------------------------------------------------------------*/
+/*---MENU---*/
+/*-------------------------------------------------------------------------------------------------------------------------*/
 #EXTINF: nombre="beinsportsextran_2" logo="https://img.teleclub.xyz/beinsportsn.png" tipo="Deportes", Bein Sports Extra Ñ
 url="http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8"
 #EXTINF: nombre="directvsports_2" logo="https://img.teleclub.xyz/directvsports.png" tipo="Deportes", Directv Sports
