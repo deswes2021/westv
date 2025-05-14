@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="variados" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/variados.jpg" group-title="menu", variados
 #EXTINF:-1 tvg-id="premium" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg" group-title="menu", premium
 #EXTINF:-1 tvg-id="deportes" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/deportes.jpg" group-title="menu", deportes
-
+#EXTINF:-1
 #EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://img.teleclub.xyz/evento.png" group-title="Eventos", Teleclub
 http://tv.teleclub.xyz/stream/server_0/eventos/evento01/master.m3u8
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
