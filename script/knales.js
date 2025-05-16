@@ -2,8 +2,9 @@
 #EXTINF:-1 tvg-id="tcs+" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg" group-title="Nacionales", tcs+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="Toscana" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg" group-title="War Movie", Toscana
-nada
+/*---------------------*/
+/*------teleclub-------*/
+/*---------------------*/
 
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
@@ -293,3 +294,10 @@ http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/24x7/padrinosmagicos/master.m3u8
 #EXTINF:-1 tvg-id="southpark_1" tvg-logo="https://img.teleclub.xyz/southpark.png" group-title="24x7", South Park
 http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8
+
+/*---------------------*/
+/*------youtube-------*/
+/*---------------------*/
+
+#EXTINF:-1 tvg-id="Toscana" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg" group-title="War Movie", Toscana
+nada
