@@ -300,4 +300,4 @@ http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8
 /*---------------------*/
 
 #EXTINF:-1 tvg-id="Toscana" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg" group-title="War Movie", Toscana
-nada
+http://tv.nada
