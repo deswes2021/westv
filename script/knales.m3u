@@ -4,65 +4,77 @@
 /*------menu-------*/
 /*---------------------*/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg" group-title="menu",herr
-herr
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg" group-title="menu",nacionales
-nacionales
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/infantiles.jpg" group-title="menu",infantiles
-infantiles
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/variados.jpg" group-title="menu",variados
-variados
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg" group-title="menu",premium
-premium
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/deportes.jpg" group-title="menu",deportes
-deportes
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/247.jpg" group-title="menu",247
-247
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/movievariado.jpg" group-title="menu",movievariado
-movievariado
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewestern.jpg" group-title="menu",moviewestern
-moviewestern
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/movieanime.jpg" group-title="menu",movieanime
-movieanime
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefamiliar.jpg" group-title="menu",moviefamiliar
-moviefamiliar
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/moviehorror.jpg" group-title="menu",moviehorror
-moviehorror
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewar.jpg" group-title="menu",moviewar
-moviewar
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg" group-title="menu",moviecomedia
-moviecomedia
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/musica.jpg" group-title="menu",musica
-musica
+#EXTINF:-1 group-id="Opciones" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/opciones.jpg" group-title="menu",Opciones
+Opciones
+#EXTINF:-1 group-id="Nacional" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/Nacional.jpg" group-title="menu",Nacional
+Nacional
+#EXTINF:-1 group-id="Infantil" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/Infantil.jpg" group-title="menu",Infantil
+Infantil
+#EXTINF:-1 group-id="Cultura" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/Cultura.jpg" group-title="menu",Cultura
+Cultura
+#EXTINF:-1 group-id="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/mundo.jpg" group-title="menu",Mundo
+Mundo
+#EXTINF:-1 group-id="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/Entretenimiento.jpg" group-title="menu",Entretenimiento
+Entretenimiento
+#EXTINF:-1 group-id="Deportes" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/Deportes.jpg" group-title="menu",Deportes
+Deportes
+#EXTINF:-1 group-id="2x47" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/247.jpg" group-title="menu",2x47
+2x47
+#EXTINF:-1 group-id="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/musica.jpg" group-title="menu",Musica
+Musica
+#EXTINF:-1 group-id="Movie Variado" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/movievariado.jpg" group-title="menu",Movie Variado
+Movie Variado
+#EXTINF:-1 group-id="Movie Anime" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/movieanime.jpg" group-title="menu",Movie Anime
+Movie Anime
+#EXTINF:-1 group-id="Movie Oeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/movieoeste.jpg" group-title="menu",Movie Oeste
+Movie Oeste
+#EXTINF:-1 group-id="Movie Familiar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefamiliar.jpg" group-title="menu",Movie Familiar
+Movie Familiar
+#EXTINF:-1 group-id="Movie Horror" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/moviehorror.jpg" group-title="menu",Movie Horror
+Movie Horror
+#EXTINF:-1 group-id="Movie War" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewar.jpg" group-title="menu",Movie War
+Movie War
+#EXTINF:-1 group-id="Movie Comedia" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg" group-title="menu",Movie Comedia
+Movie Comedia
 
 /*---------------------*/
 /*------herramientas-------*/
 /*---------------------*/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/activar.jpg" group-title="herr",activar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/activar.jpg" group-title="Opciones",Activar
 https://tv.teleclub.xyz/activar
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/actualizar.jpg" group-title="herr",actualizar
-/actualizar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/actualizar.jpg" group-title="Opciones",Actualizar
+Actualizar
 
 /*---------------------*/
 /*------nacionales-------*/
 /*---------------------*/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg" group-title="nacionales",TCS
+#EXTINF:-1 group-id="TCS" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg" group-title="Nacional",TCS
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal2.jpg" group-title="nacionales",Canal 2
+#EXTINF:-1 group-id="Canal 2" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal2.jpg" group-title="Nacional",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/d3e259fa-736d-46b0-b1c9-71caf946ace9.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal3.jpg" group-title="nacionales",Canal 3
+#EXTINF:-1 group-id="Canal 3" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal3.jpg" group-title="Nacional",Canal 3
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal4.jpg" group-title="nacionales",Canal 4
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal6.jpg" group-title="nacionales",Canal 6
+#EXTINF:-1 group-id="Canal 4" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal4.jpg" group-title="Nacional",Canal 4
+https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
+#EXTINF:-1 group-id="Canal 5" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal5.jpg" group-title="Nacional",Canal 5
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 group-id="Canal 6" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal6.jpg" group-title="Nacional",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal9.jpg" group-title="nacionales",Canal 9
+#EXTINF:-1 group-id="Canal 9" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal9.jpg" group-title="Nacional",Canal 9
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal12.jpg" group-title="nacionales",Canal 12
+#EXTINF:-1 group-id="Canal 11" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal11.jpg" group-title="Nacional",Canal 11
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal19.jpg" group-title="nacionales",Canal 19
+#EXTINF:-1 group-id="Canal 12" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal12.jpg" group-title="Nacional",Canal 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-id="Canal 19" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal19.jpg" group-title="Nacional",Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal21.jpg" group-title="nacionales",Canal 21
+#EXTINF:-1 group-id="Canal 21" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal21.jpg" group-title="Nacional",Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+/*---------------------*/
+/*------teleclub-------*/
+/*---------------------*/
+
+
