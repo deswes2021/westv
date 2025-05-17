@@ -1,9 +1,6 @@
 #EXTM3U
 
-/*---------------------*/
-/*------menu-------*/
-/*---------------------*/
-
+# MENU
 #EXTINF:-1 tvg-id="Opciones" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/opciones.jpg" group-title="menu",Opciones
 Opciones
 #EXTINF:-1 tvg-id="Nacional" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/Nacional.jpg" group-title="menu",Nacional
@@ -37,19 +34,13 @@ Movie War
 #EXTINF:-1 tvg-id="Movie Comedia" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg" group-title="menu",Movie Comedia
 Movie Comedia
 
-/*---------------------*/
-/*------herramientas-------*/
-/*---------------------*/
-
+# OPCIONES
 #EXTINF:-1 tvg-id="Activar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/activar.jpg" group-title="Opciones",Activar
 https://tv.teleclub.xyz/activar
 #EXTINF:-1 tvg-id="Actualizar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/actualizar.jpg" group-title="Opciones",Actualizar
 Actualizar
 
-/*---------------------*/
-/*------nacionales-------*/
-/*---------------------*/
-
+# NACIONALES
 #EXTINF:-1 tvg-id="TCS" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg" group-title="Nacional",TCS
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal2.jpg" group-title="Nacional",Canal 2
@@ -73,12 +64,7 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="Canal 21" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/canal21.jpg" group-title="Nacional",Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-/*---------------------*/
-/*------teleclub-------*/
-/*---------------------*/
-
-#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://img.teleclub.xyz/evento.png" group-title="Eventos", Teleclub
-http://tv.teleclub.xyz/stream/server_0/eventos/evento01/master.m3u8
+# DEPORTES
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
 #EXTINF:-1 tvg-id="directvsports_2" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
@@ -369,102 +355,63 @@ http://tv.teleclub.xyz/stream/server_1/24x7/padrinosmagicos/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8
 
 
-/*--------------------------------------------------------------------------------------------------------*/
-/*--------------------------------------------------------------------------------------------------------*/
-/*---MOVIEWESTERN---*/
-/*--------------------------------------------------------------------------------------------------------*/
-/*--------------------------------------------------------------------------------------------------------*/
-#EXTINF:-1 tvg-id="porunosdolares" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/porunosdolares.jpg", porunosdolares
+#MOVIEWESTERN
+#EXTINF:-1 tvg-id="porunosdolares" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/porunosdolares.jpg" group-title="moviewestern", porunosdolares
 22LUQT2MuXk.ybt
-
-#EXTINF:-1 tvg-id="elbuenoelmaloyelfeo" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/elbuenoelmaloyelfeo.jpg", elbuenoelmaloyelfeo
+#EXTINF:-1 tvg-id="elbuenoelmaloyelfeo" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/elbuenoelmaloyelfeo.jpg"group-title="moviewestern",  elbuenoelmaloyelfeo
 NXVSV4UKz-4.ybt
-
-#EXTINF:-1 tvg-id="elultimopistolero" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/elultimopistolero.jpg", elultimopistolero
+#EXTINF:-1 tvg-id="elultimopistolero" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/elultimopistolero.jpg"group-title="moviewestern",  elultimopistolero
 IZ_vtx3kC4s.ybt
-
-#EXTINF:-1 tvg-id="lavenganzadefrankjames" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lavenganzadefrankjames.jpg", lavenganzadefrankjames
+#EXTINF:-1 tvg-id="lavenganzadefrankjames" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lavenganzadefrankjames.jpg" group-title="moviewestern", lavenganzadefrankjames
 _emI0fhXszw.ybt
-
-#EXTINF:-1 tvg-id="barroenlosojos" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/barroenlosojos.jpg", barroenlosojos
+#EXTINF:-1 tvg-id="barroenlosojos" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/barroenlosojos.jpg" group-title="moviewestern", barroenlosojos
 Q_yYNKUwTc8.ybt
-
-#EXTINF:-1 tvg-id="unmalditoamanecer" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/unmalditoamanecer.jpg", unmalditoamanecer
+#EXTINF:-1 tvg-id="unmalditoamanecer" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/unmalditoamanecer.jpg" group-title="moviewestern", unmalditoamanecer
 -UoUvcu5lGk.ybt
-
-#EXTINF:-1 tvg-id="lamuertenocuentalosdolares" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lamuertenocuentalosdolares.jpg", lamuertenocuentalosdolares
+#EXTINF:-1 tvg-id="lamuertenocuentalosdolares" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lamuertenocuentalosdolares.jpg" group-title="moviewestern", lamuertenocuentalosdolares
 5FA2MXpUMWw.ybt
-
-#EXTINF:-1 tvg-id="lasombradesartana" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lasombradesartana.jpg", lasombradesartana
+#EXTINF:-1 tvg-id="lasombradesartana" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lasombradesartana.jpg" group-title="moviewestern", lasombradesartana
 ycW9U9eQ5Rs.ybt
-
-#EXTINF:-1 tvg-id="másalládelaley" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/másalládelaley.jpg", másalládelaley
+#EXTINF:-1 tvg-id="másalládelaley" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/másalládelaley.jpg" group-title="moviewestern", másalládelaley
 Uq0ChAeYO5w.ybt
-
-#EXTINF:-1 tvg-id="django" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/django.jpg", django
+#EXTINF:-1 tvg-id="django" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/django.jpg" group-title="moviewestern", django
 PJoIQcBl4QU.ybt
-
-#EXTINF:-1 tvg-id="regresoacasadeunvaquero" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/regresoacasadeunvaquero.jpg", regresoacasadeunvaquero
+#EXTINF:-1 tvg-id="regresoacasadeunvaquero" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/regresoacasadeunvaquero.jpg" group-title="moviewestern", regresoacasadeunvaquero
 fSJmNgkCqks.ybt
-
-#EXTINF:-1 tvg-id="unhombreuncaballounapistola" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/unhombreuncaballounapistola.jpg", unhombreuncaballounapistola
+#EXTINF:-1 tvg-id="unhombreuncaballounapistola" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/unhombreuncaballounapistola.jpg" group-title="moviewestern", unhombreuncaballounapistola
 GyoMx-kkWaw.ybt
-
-#EXTINF:-1 tvg-id="los4defortapache" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/los4defortapache.jpg", los4defortapache
+#EXTINF:-1 tvg-id="los4defortapache" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/los4defortapache.jpg" group-title="moviewestern", los4defortapache
 QhtmoKK44FQ.ybt
-
-#EXTINF:-1 tvg-id="unagujeroenlafrente" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/unagujeroenlafrente.jpg", unagujeroenlafrente
+#EXTINF:-1 tvg-id="unagujeroenlafrente" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/unagujeroenlafrente.jpg" group-title="moviewestern", unagujeroenlafrente
 p2xqPYogeIw.ybt
-
-#EXTINF:-1 tvg-id="justiciacalibre45" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/justiciacalibre45.jpg", justiciacalibre45
+#EXTINF:-1 tvg-id="justiciacalibre45" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/justiciacalibre45.jpg" group-title="moviewestern", justiciacalibre45
 DzUvg9y5Hac.ybt
-
-#EXTINF:-1 tvg-id="lellamabantrinidad" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lellamabantrinidad.jpg", lellamabantrinidad
+#EXTINF:-1 tvg-id="lellamabantrinidad" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lellamabantrinidad.jpg" group-title="moviewestern", lellamabantrinidad
 ChzXUUU76lg.ybt
-
-#EXTINF:-1 tvg-id="leseguianllamandotrinidad" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/leseguianllamandotrinidad.jpg", leseguianllamandotrinidad
+#EXTINF:-1 tvg-id="leseguianllamandotrinidad" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/leseguianllamandotrinidad.jpg" group-title="moviewestern", leseguianllamandotrinidad
 fMMOFkqGj_0.ybt
-
-#EXTINF:-1 tvg-id="elhombredeladiligencia" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/elhombredeladiligencia.jpg", elhombredeladiligencia
+#EXTINF:-1 tvg-id="elhombredeladiligencia" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/elhombredeladiligencia.jpg" group-title="moviewestern", elhombredeladiligencia
 Ez8_j6DDzlQ.ybt
-
-#EXTINF:-1 tvg-id="unvaqueromuertonoesunvaquero" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/unvaqueromuertonoesunvaquero.jpg", unvaqueromuertonoesunvaquero
+#EXTINF:-1 tvg-id="unvaqueromuertonoesunvaquero" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/unvaqueromuertonoesunvaquero.jpg" group-title="moviewestern", unvaqueromuertonoesunvaquero
 raRR1C_YF-8.ybt
-
-#EXTINF:-1 tvg-id="ringovuelveparamatar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/ringovuelveparamatar.jpg", ringovuelveparamatar
+#EXTINF:-1 tvg-id="ringovuelveparamatar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/ringovuelveparamatar.jpg" group-title="moviewestern", ringovuelveparamatar
 e_nxEk1G9Kg.ybt
-
-#EXTM3U
-
-# Duelo en el barro
 #EXTINF:-1 tvg-id="dueloenelbarro" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/dueloenelbarro.jpg" group-title="moviewestern", Duelo en el barro
 CCGYDkerli0.ytb
-
-# 123 dispara esta vez
 #EXTINF:-1 tvg-id="123disparaestavez" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/123disparaestavez.jpg" group-title="moviewestern", 123 dispara esta vez
 F7Y2sqi_GXM.ytb
-
-# La ley de la horca
 #EXTINF:-1 tvg-id="laleydelahorca" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/laleydelahorca.jpg" group-title="moviewestern", La ley de la horca
 jCvCYtlZ49E.ytb
-
-# Kid Blue
 #EXTINF:-1 tvg-id="kidblue" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/kidblue.jpg" group-title="moviewestern", Kid Blue
 ImGL5OyNVJI.ytb
-
-# El jugador
 #EXTINF:-1 tvg-id="eljugador" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/eljugador.jpg" group-title="moviewestern", El jugador
 c_D4pH73BaE.ytb
-
-# Danza con lobos
 #EXTINF:-1 tvg-id="danzaconlobos" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/danzaconlobos.jpg" group-title="moviewestern", Danza con lobos
 WGx8LvOsSQ0.ytb
-
-# La tumba
 #EXTINF:-1 tvg-id="latumba" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/latumba.jpg" group-title="moviewestern", La tumba
 VnpWsNNS0Z4.ytb
 
-#EXTM3U
+# MOVIEWAR
 #EXTINF:-1 tvg-id="lalegion" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lalegion.jpg" group-title="moviewar",La Legión
 fGRYHGCMx_Q.ytb
 #EXTINF:-1 tvg-id="fantasmasdeguerra" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/fantasmasdeguerra.jpg" group-title="moviewar",Fantasmas de Guerra
@@ -484,63 +431,45 @@ Gd674X9fqtQ.ytb
 #EXTINF:-1 tvg-id="angeldeauschwitz" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/angeldeauschwitz.jpg" group-title="moviewar",Ángel de Auschwitz
 POHpohU0sGg.ytb
 
+# MOVIEFAMILIAR
 #EXTINF:-1 tvg-id="JmYo0Pvo4rA" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/masalladeltiempo.jpg" group-title="moviefamiliar", masalladeltiempo
 JmYo0Pvo4rA.ytb
-
 #EXTINF:-1 tvg-id="itUzTS-j4B4" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/lenyelperro.jpg" group-title="moviefamiliar", lenyelperro
 itUzTS-j4B4.ytb
-
 #EXTINF:-1 tvg-id="sOvojtQKivg" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/caballocampeon.jpg" group-title="moviefamiliar", caballocampeon
 sOvojtQKivg.ytb
-
 #EXTINF:-1 tvg-id="K5hiC5uc31o" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/atrapandoelsueño.jpg" group-title="moviefamiliar", atrapandoelsueño
 K5hiC5uc31o.ytb
-
 #EXTINF:-1 tvg-id="LdOm7MrIGkg" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/jinetesconespiritu.jpg" group-title="moviefamiliar", jinetesconespiritu
 LdOm7MrIGkg.ytb
-
 #EXTINF:-1 tvg-id="I-AvQoU6meo" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/famav.jpg" group-title="moviefamiliar", famav
 I-AvQoU6meo.ytb
-
 #EXTINF:-1 tvg-id="f1lZWZsjHMg" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/aldiablolove.jpg" group-title="moviefamiliar", aldiablolove
 f1lZWZsjHMg.ytb
-
 #EXTINF:-1 tvg-id="zM5Bh34QxIM" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/elviselcerdo.jpg" group-title="moviefamiliar", elviselcerdo
 zM5Bh34QxIM.ytb
-
 #EXTINF:-1 tvg-id="PZITHoTqeqU" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/sueñodehope.jpg" group-title="moviefamiliar", sueñodehope
 PZITHoTqeqU.ytb
-
 #EXTINF:-1 tvg-id="a2Eg3aACp8g" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/legadodehope.jpg" group-title="moviefamiliar", legadodehope
 a2Eg3aACp8g.ytb
-
 #EXTINF:-1 tvg-id="sFHA27C2Hg4" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/princesaypony.jpg" group-title="moviefamiliar", princesaypony
 sFHA27C2Hg4.ytb
-
 #EXTINF:-1 tvg-id="lyxw6uuGygY" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/inviernodehoro.jpg" group-title="moviefamiliar", inviernodehoro
 lyxw6uuGygY.ytb
-
 #EXTINF:-1 tvg-id="GiV2LJu7lao" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/12perrosdenavidad.jpg" group-title="moviefamiliar", 12perrosdenavidad
 GiV2LJu7lao.ytb
-
 #EXTINF:-1 tvg-id="UWKYriniaYk" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/navidadpara2.jpg" group-title="moviefamiliar", navidadpara2
 UWKYriniaYk.ytb
-
 #EXTINF:-1 tvg-id="bgqyGXvMuj4" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/waldisneymagico.jpg" group-title="moviefamiliar", waldisneymagico
 bgqyGXvMuj4.ytb
-
 #EXTINF:-1 tvg-id="ifxXypfIWDQ" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/perrodelcielo.jpg" group-title="moviefamiliar", perrodelcielo
 ifxXypfIWDQ.ytb
-
 #EXTINF:-1 tvg-id="DX65HDouP28" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/intrusodenavidad.jpg" group-title="moviefamiliar", intrusodenavidad
 DX65HDouP28.ytb
-
 #EXTINF:-1 tvg-id="hUI2hjJovHg" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/navidadtraviesa.jpg" group-title="moviefamiliar", navidadtraviesa
 hUI2hjJovHg.ytb
-
 #EXTINF:-1 tvg-id="oz-nfxnqObc" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/antesdetiempo.jpg" group-title="moviefamiliar", antesdetiempo
 oz-nfxnqObc.ytb
-
 #EXTINF:-1 tvg-id="GnGVKHK6oJg" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/elnovato.jpg" group-title="moviefamiliar", elnovato
 GnGVKHK6oJg.ytb
 
@@ -611,5 +540,3 @@ Ec_zUC3g94g.ytb
 5-tRv2i3G2g.ytb
 #EXTINF:-1 tvg-id="ShyUTIx7_hE" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/image/laninasinmagia.jpg" group-title="Movie Variado", La Niña sin Magia
 ShyUTIx7_hE.ytb
-
-
