@@ -1,4 +1,3 @@
-[
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*---MENUS---*/
@@ -437,4 +436,3 @@
     { name: "lossimpsons", logo: "https://img.teleclub.xyz/lossimpsons.png", tipo: "247", nombre: "Los Simpsons", url: "http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8" },
     { name: "padrinosmagicos", logo: "https://img.teleclub.xyz/padrinosmagicos.png", tipo: "247", nombre: "Padrinos Magicos", url: "http://tv.teleclub.xyz/stream/server_1/24x7/padrinosmagicos/master.m3u8" },
     { name: "southpark", logo: "https://img.teleclub.xyz/southpark.png", tipo: "247", nombre: "South Park", url: "http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8" }
-]
