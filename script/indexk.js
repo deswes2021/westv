@@ -4,42 +4,44 @@
     /*---MENUS---*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg", url: "herr" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg", url: "nacionales" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/infantiles.jpg", url: "infantileses" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variados.jpg", url: "variados" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg", url: "premium" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/deportes.jpg", url: "deportes" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/247.jpg", url: "247" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/movievariado.jpg", url: "movievariado" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewestern.jpg", url: "moviewestern" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/movieanime.jpg", url: "movieanime" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefamiliar.jpg", url: "moviefamiliar" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviehorror.jpg", url: "moviehorror" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewar.jpg", url: "moviewar" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg", url: "moviecomedia" },
-    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/musica.jpg", url: "musica" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/herr.jpg", url: "herr", nombre: "Opciones"},
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/nacionales.jpg", url: "nacionales", nombre: "Nacionales" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/infantiles.jpg", url: "infantiles", nombre: "Infantiles" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/variados.jpg", url: "variados", nombre: "Variados" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/premium.jpg", url: "premium", nombre: "Cinemas" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/deportes.jpg", url: "deportes", nombre: "Deportes" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/247.jpg", url: "247", nombre: "24/7" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/movievariado.jpg", url: "movievariado", nombre: "YTB Variado" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewestern.jpg", url: "moviewestern", nombre: "YTB Western" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/movieanime.jpg", url: "movieanime", nombre: "YTB Anime" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviefamiliar.jpg", url: "moviefamiliar", nombre: "YTB Familiar" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviehorror.jpg", url: "moviehorror", nombre: "YTB Horror" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/moviewar.jpg", url: "moviewar", nombre: "YTB Wars" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/movieacomedia.jpg", url: "moviecomedia", nombre: "YTB Comedia" },
+    { tipo: "menu", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/musica.jpg", url: "musica", nombre: "Musicales" },
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*---OPCIONES---*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
-    { tipo: "herr", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/activar.jpg", url: "https://tv.teleclub.xyz/activar" },
-    { tipo: "herr", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/actualizar.jpg", url: "/actualizar" },
+    { tipo: "herr", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/activar.jpg", nombre: "Activar", url: "https://tv.teleclub.xyz/activar"  },
+    { tipo: "herr", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/actualizar.jpg", nombre: "Actualizar", url: "/actualizar"  },
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*---NACIONALES---*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg", url: "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8" },
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal2.jpg", url: "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/d3e259fa-736d-46b0-b1c9-71caf946ace9.m3u8" },
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal3.jpg", url: "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8" },
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal4.jpg", url: "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8" },
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal6.jpg", url: "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8" },
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal9.jpg", url: "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8" },
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal12.jpg", url: "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8" },
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal19.jpg", url: "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8" },
-    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal21.jpg", url: "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/tcs.jpg", nombre: "TCS +", url: "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal2.jpg", nombre: "Camal 2", url: "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/d3e259fa-736d-46b0-b1c9-71caf946ace9.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal3.jpg", nombre: "Camal 3", url: "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal4.jpg", nombre: "Camal 4", url: "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal5.jpg", nombre: "Camal 5", url: "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal6.jpg", nombre: "Camal 6", url: "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal9.jpg", nombre: "Camal 9", url: "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal11.jpg", nombre: "Camal 11", url: "https://stream.giostreaming.net:19360/canal11/canal11.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal12.jpg", nombre: "Camal 12", url: "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal19.jpg", nombre: "Camal 19", url: "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8" },
+    { tipo: "nacionales", logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/canal21.jpg", nombre: "Camal 21", url: "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8" },
     /*--------------------------------------------------------------------------------------------------------*/
     /*--------------------------------------------------------------------------------------------------------*/
     /*---MOVIEWESTERN---*/
