@@ -33,6 +33,8 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="Canal 21" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal21.png" group-title="Nacionales", Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+#EXTINF:-1 tvg-id="TVM" group-title="Nacionales",TVM
+http://201.247.102.189/tmp_hls/stream/index.m3u8
 
 /*----------------------------------------------------------------------------------*/
 /*-TELECLUB-*/
@@ -335,6 +337,116 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="Magic Stream" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/magicstream.png" group-title="Infantil", Magic Stream
 https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="Locomotion" group-title="Infantil",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek Fan" group-title="Infantil",EnerGeek Fan
+https://xuibackend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR
+#EXTINF:-1 tvg-id="EnerGeek" group-title="Infantil",EnerGeek
+https://streamingcl.sh1ny.space/memfs/e8a8e789170b4de4a33b90a9a475ce65.m3u8
+#EXTINF:-1 tvg-id="ipe" group-title="Infantil",ipe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-id="Dios Tv Kid" group-title="Infantil",Dios Tv Kid
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-id="Educa Tv" group-title="Infantil",Educa Tv
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Magic Kid" group-title="Infantil",Magic Kid
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="TVS vision tv" group-title="Infantil",TVS vision tv
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+/*----------------------------------------------------------------------------------*/
+/*-PERSONALES MUNDO-*/
+/*----------------------------------------------------------------------------------*/
+#EXTINF:-1 tvg-id="Clasicc V" group-title="Mundo",Clasicc V
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="Ciudad Magazine" group-title="Mundo",Ciudad Magazine
+https://live0107ciudad.vodgc.net/live0107ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="13 reality" group-title="Mundo",13 reality
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHeKw/master.m3u8
+#EXTINF:-1 tvg-id="13 teleseries" group-title="Mundo",13 teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="13 festival" group-title="Mundo",13 festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="13 max" group-title="Mundo",13 max
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-id="adn40" group-title="Mundo",adn40
+https://mdstrm.com/livestreamplaylist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="Azteca Internacional" group-title="Mundo",Azteca Internacional
+https://aztmun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="Bayres Tv" group-title="Mundo",Bayres Tv
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="Ciudadela Tv" group-title="Mundo",Ciudadela Tv
+https://cp.panelchs.com:1936/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina Clasic" group-title="Mundo",Latina Clasic
+https://redirector.rudo.video/hlsvideo/plus226/latina2/latina2.smil/playlist.m3u8
+
+/*----------------------------------------------------------------------------------*/
+/*-PERSONALES ENTRETENIMIENTO-*/
+/*----------------------------------------------------------------------------------*/
+#EXTINF:-1 tvg-id="Extrema Animal" group-title="Cultura",Extrema Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN" group-title="Cultura",CGTN
+https://espanollivews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="cultura 24" group-title="Cultura",cultura 24
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+#EXTINF:-1 tvg-id="Garage Tv" group-title="Cultura",Garage Tv
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="History 1 Lat" group-title="Cultura",History 1 Lat
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History 2 Lat" group-title="Cultura",History 2 Lat
+https://corsproxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+/*----------------------------------------------------------------------------------*/
+/*-PERSONALES MUSICA-*/
+/*----------------------------------------------------------------------------------*/
+#EXTINF:-1 tvg-id="Planeta Tv" group-title="Entretenimiento",Planeta Tv
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Extrema Action" group-title="Entretenimiento",Extrema Action
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="Extrema Clasico" group-title="Entretenimiento",Extrema Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-id="GAM Tv" group-title="Entretenimiento",GAM Tv
+https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+#EXTINF:-1 tvg-id="DWTv" group-title="Entretenimiento",DWTv
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="cromtv" group-title="Entretenimiento",cromtv
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-id="DMJ Cuzco" group-title="Entretenimiento",DMJ Cuzco
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EGM Tv" group-title="Entretenimiento",EGM Tv
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="Extrema Tv" group-title="Entretenimiento",Extrema Tv
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+/*----------------------------------------------------------------------------------*/
+/*-PERSONALES DEPORTES-*/
+/*----------------------------------------------------------------------------------*/
+#EXTINF:-1 tvg-id="Tigo Sport Guate" group-title="Deportes",Tigo Sport Guate
+https://cnmtsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-1 tvg-id="chv deporte" group-title="Deportes",chv deporte
+https://mdstrm.com/livestreamplaylist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
+
+/*----------------------------------------------------------------------------------*/
+/*-PERSONALES RELIGIOSO-*/
+/*----------------------------------------------------------------------------------*/
+#EXTINF:-1 tvg-id="A&R" group-title="Religioso",A&R
+http://51.222.9.192:3589/stream/play.m3u8
+#EXTINF:-1 tvg-id="Avivamiento Tv" group-title="Religioso",Avivamiento Tv
+https://ssh101.bozztv.com/ssh101/avivamientotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABN Tv" group-title="Religioso",ABN Tv
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 98 Jesus" group-title="Religioso",Canal 98 Jesus
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+#EXTINF:-1 tvg-id="Cristo Vision" group-title="Religioso",Cristo Vision
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+#EXTINF:-1 tvg-id="CTNI" group-title="Religioso",CTNI
+https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="Dios Tv" group-title="Religioso",Dios Tv
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-id="EWTN" group-title="Religioso",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Hosanna Vision" group-title="Religioso",Hosanna Vision
+https://1206618505.rsc.cdn77.org/LSATL590201/playlist.m3u8
 
 /*----------------------------------------------------------------------------------*/
 /*-PERSONALES MUSICA-*/
