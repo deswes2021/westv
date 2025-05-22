@@ -19,10 +19,10 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 4" tvg-logo="https://img.teleclub.xyz/canal4.jpg" group-title="Nacionales", Canal 4
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://img.teleclub.xyz/canal5.jpg" group-title="Nacionales", Canal 5
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 6" tvg-logo="https://img.teleclub.xyz/canal6.jpg" group-title="Nacionales", Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="Canal 7" tvg-logo="https://img.teleclub.xyz/canal7.jpg" group-title="Nacionales", Canal 7
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://img.teleclub.xyz/canal9.jpg" group-title="Nacionales", Canal 9
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="Canal 11" tvg-logo="https://img.teleclub.xyz/canal11.jpg" group-title="Nacionales", Canal 11
