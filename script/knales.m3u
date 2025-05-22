@@ -2,6 +2,8 @@
 /*-OPCIONES-*/
 #EXTINF:-1 tvg-id="Activar" tvg-logo="https://img.teleclub.xyz/activar.jpg" group-title="Opciones", Activar
 http://tv.teleclub.xyz/activar
+#EXTINF:-1 tvg-id="Actualizar" tvg-logo="https://img.teleclub.xyz/actualizar.jpg" group-title="Opciones", Actualizar
+/actualizar
 /*-NACIONALES-*/
 
 /*-TELECLUB-*/
