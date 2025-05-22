@@ -343,3 +343,103 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://pistream.ddns.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Tele Ritmo" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/teleritmo.png" group-title="Musica", Tele Ritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="CtvI" group-title="Musica", Ctv internacional
+https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF: tbg-id="VML" group-title="Musica", VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF: tbg-id="28" group-title="Musica", Mundo de la Musica TV
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", Recuerdos Retro Radio TV 
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", Retro Plus TV 
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="80" group-title="Musica", Retro Plus TV Señal 2 
+https://ssh101.bozztv.com/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="24" group-title="Musica", Ruidos TV 
+https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="31" group-title="Musica", Urban TV 
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="22" group-title="Musica", Cadena Elite | ES
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="28" group-title="Musica", Canal VM Latino | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="18" group-title="Musica", Carolina TV 2 | CL
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="87" group-title="Musica", Chile Remix | CL
+https://vdochile.com:3803/live/ckdj2live.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="50" group-title="Musica", Conecta TV | MX
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="59" group-title="Musica", Cumbia TV | PA
+https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/6.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="76" group-title="Musica", Eternal Metal | CL
+https://vdo1.panelstreaming.live:3350/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", Euro Indie Music | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="59" group-title="Musica", Flash - Freetv.com | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="80" group-title="Musica", La Chilena TV | CL
+https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", La Sabrosura TV | CL
+https://tv.arkeo.cl:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="78" group-title="Musica", Latin Zone TV | US
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", Latina TV | CL
+https://paneltv.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="178" group-title="Musica", Los Heat TV | US
+https://mdstrm.com/video/631f6f0fe4eba7082bc551ad.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="33" group-title="Musica", M Music TV | CL
+https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="54" group-title="Musica", MMC - Freetv.com | US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="80" group-title="Musica", Music PUQ | CL
+https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="24" group-title="Musica", Parentesis TV | CL
+https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="28" group-title="Musica", PlanetaTV | CL
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", Portal FoxMix | CL
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="80" group-title="Musica", Radio Video Mix | CL
+https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", Retro Music Television | CZ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="60" group-title="Musica", Salsa TV | PA
+https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/1.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", Solobailalo TV | CL
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="33" group-title="Musica", Soy Plancha TV | CR
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="20" group-title="Musica", TeleZeta Tropical | CL
+https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", The Retro Channel | PR
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="29" group-title="Musica", Top New Radio | CL
+https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="24" group-title="Musica", Top TV | BR
+https://isaocorp.cloudecast.com/toptv/index.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="78" group-title="Musica", Tu Musica HD | DO
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="24" group-title="Musica", Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", TV vconline.cl | CL
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="75" group-title="Musica", Urban Pro DJ | CL
+https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="59" group-title="Musica", Urban TV | PA
+https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/4.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="28" group-title="Musica", Urbano TV | CR
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="29" group-title="Musica", VClassicTV | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", VClassicTV Tropical | CL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="30" group-title="Musica", Video Tour Channel | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="50" group-title="Musica", VideoHit | CL
+https://streaming-cl.sh1ny.space/memfs/c3185a20-390f-4fe7-b063-fe5c3236e7fd.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="28" group-title="Musica", Vintage Music | CR
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="24" group-title="Musica", Vision Musica TV | PE
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL
+#EXTINF: tbg-id="3325" group-title="Musica", Voice Over Radio TV | CR
+https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
