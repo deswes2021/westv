@@ -1,4 +1,5 @@
 #EXTM3U
+
 /*----------------------------------------------------------------------------------*/
 /*-OPCIONES-*/
 /*----------------------------------------------------------------------------------*/
@@ -6,6 +7,7 @@
 http://tv.teleclub.xyz/activar
 #EXTINF:-1 tvg-id="Actualizar" tvg-logo="https://img.teleclub.xyz/actualizar.jpg" group-title="Opciones", Actualizar
 /actualizar
+
 /*----------------------------------------------------------------------------------*/
 /*-NACIONALES-*/
 /*----------------------------------------------------------------------------------*/
@@ -31,6 +33,7 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="Canal 21" tvg-logo="https://img.teleclub.xyz/canal21.jpg" group-title="Nacionales", Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
 /*----------------------------------------------------------------------------------*/
 /*-TELECLUB-*/
 /*----------------------------------------------------------------------------------*/
@@ -322,8 +325,21 @@ http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/24x7/padrinosmagicos/master.m3u8
 #EXTINF:-1 tvg-id="southpark_1" tvg-logo="https://img.teleclub.xyz/southpark.png" group-title="24x7", South Park
 http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8
+
 /*----------------------------------------------------------------------------------*/
 /*-PERSONALES INFANTIL-*/
 /*----------------------------------------------------------------------------------*/
-#EXTINF:-1 tvg-id="southpark_1" tvg-logo="https://img.teleclub.xyz/southpark.png" group-title="24x7", South Park
-http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8
+#EXTINF:-1 tvg-id="Xtrema Cartoons" tvg-logo="https://img.teleclub.xyz/xtremacartoons.png" group-title="Infantiles", Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="Clan Internacional" tvg-logo="https://img.teleclub.xyz/claninternacional.png" group-title="Infantiles", Clan Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-id="Magic Stream" tvg-logo="https://img.teleclub.xyz/magicstream.png" group-title="Infantiles", Magic Stream
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+/*----------------------------------------------------------------------------------*/
+/*-PERSONALES MUSICA-*/
+/*----------------------------------------------------------------------------------*/
+#EXTINF:-1 tvg-id="GIKTV" tvg-logo="https://img.teleclub.xyz/giktv.png" group-title="Musica", GIKTV
+https://pistream.ddns.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Tele Ritmo" tvg-logo="https://img.teleclub.xyz/teleritmo.png" group-title="Musica", Tele Ritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
