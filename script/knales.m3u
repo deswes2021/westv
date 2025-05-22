@@ -329,11 +329,11 @@ http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8
 /*----------------------------------------------------------------------------------*/
 /*-PERSONALES INFANTIL-*/
 /*----------------------------------------------------------------------------------*/
-#EXTINF:-1 tvg-id="Xtrema Cartoons" tvg-logo="https://img.teleclub.xyz/xtremacartoons.png" group-title="Infantiles", Xtrema Cartoons
+#EXTINF:-1 tvg-id="Xtrema Cartoons" tvg-logo="https://img.teleclub.xyz/xtremacartoons.png" group-title="Infantil", Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="Clan Internacional" tvg-logo="https://img.teleclub.xyz/claninternacional.png" group-title="Infantiles", Clan Internacional
+#EXTINF:-1 tvg-id="Clan Internacional" tvg-logo="https://img.teleclub.xyz/claninternacional.png" group-title="Infantil", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 tvg-id="Magic Stream" tvg-logo="https://img.teleclub.xyz/magicstream.png" group-title="Infantiles", Magic Stream
+#EXTINF:-1 tvg-id="Magic Stream" tvg-logo="https://img.teleclub.xyz/magicstream.png" group-title="Infantil", Magic Stream
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 /*----------------------------------------------------------------------------------*/
