@@ -3,35 +3,35 @@
 /*----------------------------------------------------------------------------------*/
 /*-OPCIONES-*/
 /*----------------------------------------------------------------------------------*/
-#EXTINF:-1 tvg-id="Activar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/activar.jpg" group-title="Opciones", Activar
+#EXTINF:-1 tvg-id="Activar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/activar.png" group-title="Opciones", Activar
 http://tv.teleclub.xyz/activar
-#EXTINF:-1 tvg-id="Actualizar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/actualizar.jpg" group-title="Opciones", Actualizar
+#EXTINF:-1 tvg-id="Actualizar" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/actualizar.png" group-title="Opciones", Actualizar
 /actualizar
 
 /*----------------------------------------------------------------------------------*/
 /*-NACIONALES-*/
 /*----------------------------------------------------------------------------------*/
-#EXTINF:-1 tvg-id="TCS +" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/tcs.jpg" group-title="Nacionales", TCS +
+#EXTINF:-1 tvg-id="TCS +" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/tcs.png" group-title="Nacionales", TCS +
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal2.jpg" group-title="Nacionales", Canal 2
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal2.png" group-title="Nacionales", Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/d3e259fa-736d-46b0-b1c9-71caf946ace9.m3u8
-#EXTINF:-1 tvg-id="Canal 3" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal3.jpg" group-title="Nacionales", Canal 3
+#EXTINF:-1 tvg-id="Canal 3" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal3.png" group-title="Nacionales", Canal 3
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 4" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal4.jpg" group-title="Nacionales", Canal 4
+#EXTINF:-1 tvg-id="Canal 4" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal4.png" group-title="Nacionales", Canal 4
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Canal 6" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal6.jpg" group-title="Nacionales", Canal 6
+#EXTINF:-1 tvg-id="Canal 6" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal6.png" group-title="Nacionales", Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Canal 7" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal7.jpg" group-title="Nacionales", Canal 7
+#EXTINF:-1 tvg-id="Canal 7" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal7.png" group-title="Nacionales", Canal 7
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal9.jpg" group-title="Nacionales", Canal 9
+#EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal9.png" group-title="Nacionales", Canal 9
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-id="Canal 11" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal11.jpg" group-title="Nacionales", Canal 11
+#EXTINF:-1 tvg-id="Canal 11" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal11.png" group-title="Nacionales", Canal 11
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
-#EXTINF:-1 tvg-id="Canal 12" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal12.jpg" group-title="Nacionales", Canal 12
+#EXTINF:-1 tvg-id="Canal 12" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal12.png" group-title="Nacionales", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Canal 19" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal19.jpg" group-title="Nacionales", Canal 19
+#EXTINF:-1 tvg-id="Canal 19" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal19.png" group-title="Nacionales", Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 tvg-id="Canal 21" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal21.jpg" group-title="Nacionales", Canal 21
+#EXTINF:-1 tvg-id="Canal 21" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal21.png" group-title="Nacionales", Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 /*----------------------------------------------------------------------------------*/
