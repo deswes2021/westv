@@ -1,12 +1,39 @@
 #EXTM3U
+/*----------------------------------------------------------------------------------*/
 /*-OPCIONES-*/
+/*----------------------------------------------------------------------------------*/
 #EXTINF:-1 tvg-id="Activar" tvg-logo="https://img.teleclub.xyz/activar.jpg" group-title="Opciones", Activar
 http://tv.teleclub.xyz/activar
 #EXTINF:-1 tvg-id="Actualizar" tvg-logo="https://img.teleclub.xyz/actualizar.jpg" group-title="Opciones", Actualizar
 /actualizar
+/*----------------------------------------------------------------------------------*/
 /*-NACIONALES-*/
-
+/*----------------------------------------------------------------------------------*/
+#EXTINF:-1 tvg-id="TCS +" tvg-logo="https://img.teleclub.xyz/tcs.jpg" group-title="Nacionales", TCS +
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://img.teleclub.xyz/canal2.jpg" group-title="Nacionales", Canal 2
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/d3e259fa-736d-46b0-b1c9-71caf946ace9.m3u8
+#EXTINF:-1 tvg-id="Canal 3" tvg-logo="https://img.teleclub.xyz/canal3.jpg" group-title="Nacionales", Canal 3
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 4" tvg-logo="https://img.teleclub.xyz/canal4.jpg" group-title="Nacionales", Canal 4
+https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://img.teleclub.xyz/canal5.jpg" group-title="Nacionales", Canal 5
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 6" tvg-logo="https://img.teleclub.xyz/canal6.jpg" group-title="Nacionales", Canal 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://img.teleclub.xyz/canal9.jpg" group-title="Nacionales", Canal 9
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="Canal 11" tvg-logo="https://img.teleclub.xyz/canal11.jpg" group-title="Nacionales", Canal 11
+https://stream.giostreaming.net:19360/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal 12" tvg-logo="https://img.teleclub.xyz/canal12.jpg" group-title="Nacionales", Canal 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal 19" tvg-logo="https://img.teleclub.xyz/canal19.jpg" group-title="Nacionales", Canal 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+#EXTINF:-1 tvg-id="Canal 21" tvg-logo="https://img.teleclub.xyz/canal21.jpg" group-title="Nacionales", Canal 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+/*----------------------------------------------------------------------------------*/
 /*-TELECLUB-*/
+/*----------------------------------------------------------------------------------*/
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
 #EXTINF:-1 tvg-id="directvsports_2" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
@@ -293,5 +320,10 @@ http://tv.teleclub.xyz/stream/server_1/24x7/lospicapiedras/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8
 #EXTINF:-1 tvg-id="padrinosmagicos_1" tvg-logo="https://img.teleclub.xyz/padrinosmagicos.png" group-title="24x7", Padrinos Magícos
 http://tv.teleclub.xyz/stream/server_1/24x7/padrinosmagicos/master.m3u8
+#EXTINF:-1 tvg-id="southpark_1" tvg-logo="https://img.teleclub.xyz/southpark.png" group-title="24x7", South Park
+http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8
+/*----------------------------------------------------------------------------------*/
+/*-PERSONALES INFANTIL-*/
+/*----------------------------------------------------------------------------------*/
 #EXTINF:-1 tvg-id="southpark_1" tvg-logo="https://img.teleclub.xyz/southpark.png" group-title="24x7", South Park
 http://tv.teleclub.xyz/stream/server_1/24x7/southpark/master.m3u8
