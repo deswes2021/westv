@@ -25,6 +25,8 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal9.png" group-title="Nacionales", Canal 9
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal10.png" group-title="Nacionales", Canal 10
+https://5ca3e84a76d30.streamlock.net:443/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 11" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal11.png" group-title="Nacionales", Canal 11
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal 12" tvg-logo="https://raw.githubusercontent.com/deswes2021/westv/main/impng/canal12.png" group-title="Nacionales", Canal 12
