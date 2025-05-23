@@ -3,6 +3,118 @@
 /*-OPCIONES-*/
 /*----------------------------------------------------------------------------------*/
 {
+  nombre: "Opciones",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/Opciones.png",
+  url:"Opciones"
+},
+{
+  nombre: "Nacionales",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/Nacionales.png",
+  url:"Nacionales"
+},
+{
+  nombre: "Infantiles",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/Infantiles.png",
+  url:"Infantiles"
+},
+{
+  nombre: "Variados",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/Variados.png",
+  url:"Variados"
+},
+{
+  nombre: "Cinemas",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/Cinemas.png",
+  url:"Cinemas"
+},
+{
+  nombre: "24x7",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/24x7.png",
+  url:"24x7"
+},
+{
+  nombre: "Deportes",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/Deportes.png",
+  url:"Deportes"
+},
+{
+  nombre: "Musica",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/Musica.png",
+  url:"Musica"
+},
+{
+  nombre: "YTBOeste",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBOeste.png",
+  url:"YTBOeste"
+},
+{
+  nombre: "YTBWars",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBWars.png",
+  url:"YTBWars"
+},
+{
+  nombre: "YTBDocumental",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBDocumental.png",
+  url:"YTBDocumental"
+},  
+{
+  nombre: "YTBFantasy",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBFantasy.png",
+  url:"YTBFantasy"
+},  
+{
+  nombre: "YTBFiction",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBFiction.png",
+  url:"YTBFiction"
+},  
+{
+  nombre: "YTBHorror",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBHorror.png",
+  url:"YTBHorror"
+},    
+{
+  nombre: "YTBAnime",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBAnime.png",
+  url:"YTBAnime"
+},    
+{
+  nombre: "YTBFamily",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBFamily.png",
+  url:"YTBFamily"
+},      
+{
+  nombre: "YTBDrama",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBDrama.png",
+  url:"YTBDrama"
+},      
+{
+  nombre: "YTBMusical",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/YTBMusical.png",
+  url:"YTBMusical"
+},
+
+/*----------------------------------------------------------------------------------*/
+/*-OPCIONES-*/
+/*----------------------------------------------------------------------------------*/
+{
   nombre: "Activar",
   tipo:"Opciones",
   logo:"https://raw.githubusercontent.com/deswes2021/westv/main/impng/activar.png",
