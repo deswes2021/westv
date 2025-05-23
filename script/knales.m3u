@@ -658,3 +658,25 @@ https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
 /*----------------------------------------------------------------------------------*/
 #EXTINF: tvg-id="Angry Bird" group-title="Peliculas", Angry Bird
 http://tvpremiumhd.club/lista-gratuita/153011/on/live.php?id=ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
+#EXTINF: tvg-id="The Purge" group-title="Peliculas", The Purge
+http://tvpremiumhd.club/lista-gratuita/153011/on/live.php?id=archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
+#EXTINF: tvg-id="Volver al Futuro 2" group-title="Peliculas", Volver al Futuro 2
+http://tvpremiumhd.club/lista-gratuita/153011/on/live.php?id=ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+#EXTINF: tvg-id="Jhonny English 3.0" group-title="Peliculas", Jhonny English 3.0
+http://tvpremiumhd.club/lista-gratuita/153011/on/live.php?id=archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF: tvg-id="SAW 3.0" group-title="Peliculas", SAW 3.0
+http://tvpremiumhd.club/lista-gratuita/153011/on/live.php?id=archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF: tvg-id="Godzilla: Monster Planet" group-title="Peliculas", Godzilla: Monster Planet
+http://tvpremiumhd.club/lista-gratuita/153011/on/lives.php?id=archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+#EXTINF: tvg-id="Wonder Woman (2017)" group-title="Peliculas", Godzilla: Wonder Woman (2017)
+http://tvpremiumhd.club/lista-gratuita/153011/on/live.php?id=deadlyblogger.com/NewRelease/wonderwoman.mp4
+#EXTINF: tvg-id="Colosal (2019)" group-title="Peliculas", Colosal (2019)
+http://tvpremiumhd.club/lista-gratuita/153011/on/lives.php?id=ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+#EXTINF: tvg-id="Rogue One: StarWars Story" group-title="Peliculas", Rogue One: StarWars Story
+http://tvpremiumhd.club/lista-gratuita/153011/on/live.php?id=deadlyblogger.com/NewRelease/rogue1.mp4
+
+/*----------------------------------------------------------------------------------*/
+/*-PERSONALES VIEJO OESTE-*/
+/*----------------------------------------------------------------------------------*/
+#EXTINF: tvg-id="Oeste" group-title="YTB Viejo Oeste" tvg-logo: "https://raw.githubusercontent.com/deswes2021/westv/main/image/porunosdolares.jpg",Por unos dolares mas
+22LUQT2MuXk.ytb
