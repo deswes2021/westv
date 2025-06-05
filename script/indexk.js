@@ -31,6 +31,7 @@
     /*----------------------------------------------------------------------------------*/
     { nombre: "Activar", tipo: "Opciones", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/activar.jpg", url: "https://tv.teleclub.xyz/activar" },
     { nombre: "Actualizar", tipo: "Opciones", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/actualizar.jpg", url: "/actualizar" },
+    { nombre: "Cambialista", tipo: "Opciones", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cambialista.jpg", url: "/cambialista" },
 
     /*----------------------------------------------------------------------------------*/
     /*-NACIONALES-*/
