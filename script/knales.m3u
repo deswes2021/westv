@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://img.teleclub.xyz/evento.png" group-title="Opciones", Activador
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="" group-title="Opciones", Activador
 https://tv.teleclub.xyz/activar
-#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://img.teleclub.xyz/evento.png" group-title="Opciones", Actualizar
+#EXTINF:-1 tvg-id="evento01_0" tvg-logo="" group-title="Opciones", Actualizar
 /actualizar
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
