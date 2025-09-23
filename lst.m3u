@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTOPT: MENUS---------------------------------------------
+#EXTINF: nombre="opciones" tipo="menu" url="/opciones"
+#EXTINF: nombre="nacional" tipo="menu" url="/nacional"
+#EXTOPT: MENUS---------------------------------------------
+
 #EXTOPT: OPCIONES---------------------------------------------
 #EXTINF: nombre="actualizar" tipo="opciones" url="/actualizar"
 #EXTINF: nombre="borrar cache" tipo="opciones" url="/borrarcache"
