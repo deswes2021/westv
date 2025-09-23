@@ -1,4 +1,4 @@
-#EXTM3U:
+#EXTM3U
 
 #EXTOPT: OPCIONES---------------------------------------------
 #EXTINF: nombre="actualizar" logo="actualizar" tipo="opciones" url="/actualizar"
