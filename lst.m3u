@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTOPT: MENUS---------------------------------------------
-#EXTINF: nombre="opciones" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/opciones.jpg" url="opciones"
-#EXTINF: nombre="nacional" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/nacional.jpg" url="nacional"
-#EXTINF: nombre="infantil" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/infantil.jpg" url="infantil"
-#EXTOPT: MENUS---------------------------------------------
-
 #EXTOPT: OPCIONES---------------------------------------------
 #EXTINF: nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/actualizar.jpg" url="actualizar"
 #EXTINF: nombre="borrar cache" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/borrarcache.jpg" url="borrarcache"
