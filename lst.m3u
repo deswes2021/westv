@@ -6,12 +6,12 @@
 #EXTOPT: MENUS---------------------------------------------
 
 #EXTOPT: OPCIONES---------------------------------------------
-#EXTINF: nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url="actualizar"
-#EXTINF: nombre="borrar cache" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url="borrarcache"
+#EXTINF: nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/actualizar.jpg" url="actualizar"
+#EXTINF: nombre="borrar cache" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/borrarcache.jpg" url="borrarcache"
 #EXTOPT: OPCIONES---------------------------------------------
 
 #EXTOPT: NACIONAL---------------------------------------------
-#EXTINF: nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url="https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8"
+#EXTINF: nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url="https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8"
 #EXTINF: nombre="canal 2" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal2.jpg" url="https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8"
 #EXTINF: nombre="canal 3" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal3.jpg" url="https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8"
 #EXTINF: nombre="canal 4" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal4.jpg" url="https://telecorporacion.cdn.vustreams.com/live/ed89f096-00b1-4d6e-806a-ad9064a603e3/live.isml/.m3u8"
