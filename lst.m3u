@@ -25,38 +25,45 @@
 #EXTOPT: NACIONAL---------------------------------------------
 
 #EXTOPT: INFANTIL---------------------------------------------
-#EXTINF: nombre="actualizar" tipo="infantil" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/actualizar.jpg" url="actualizar"
-#EXTINF: nombre="borrar cache" tipo="infantil" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/borrarcache.jpg" url="borrarcache"
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/0000000.jpg" url="0000000"
 #EXTOPT: INFANTIL---------------------------------------------
 
-#EXTOPT: https://img.youtube.com/vi/ id /hqdefault.jpg
+#EXTOPT: YTB VIEJO OESTE---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB VIEJO OESTE---------------------------------------------
 
-#EXTOPT: MOVIES VIEJO OESTE---------------------------------------------
-#EXTOPT: MOVIES VIEJO OESTE---------------------------------------------
+#EXTOPT: YTB GUERRA---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB GUERRA---------------------------------------------
 
-#EXTOPT: MOVIES GUERRA---------------------------------------------
-#EXTOPT: MOVIES GUERRA---------------------------------------------
+#EXTOPT: YTB DOCUMENTAL---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB DOCUMENTAL---------------------------------------------
 
-#EXTOPT: MOVIES DOCUMENTAL---------------------------------------------
-#EXTOPT: MOVIES DOCUMENTAL---------------------------------------------
+#EXTOPT: YTB HORROR---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB HORROR---------------------------------------------
 
-#EXTOPT: MOVIES HORROR---------------------------------------------
-#EXTOPT: MOVIES HORROR---------------------------------------------
+#EXTOPT: YTB FICCION---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB FICCION---------------------------------------------
 
-#EXTOPT: MOVIES FICCION---------------------------------------------
-#EXTOPT: MOVIES FICCION---------------------------------------------
+#EXTOPT: YTB ANIME---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB ANIME---------------------------------------------
 
-#EXTOPT: MOVIES ANIME---------------------------------------------
-#EXTOPT: MOVIES ANIME---------------------------------------------
+#EXTOPT: YTB BABY---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB BABY---------------------------------------------
 
-#EXTOPT: MOVIES BABY---------------------------------------------
-#EXTOPT: MOVIES BABY---------------------------------------------
+#EXTOPT: YTB FAMILIAR---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB FAMILIAR---------------------------------------------
 
-#EXTOPT: MOVIES FAMILIAR---------------------------------------------
-#EXTOPT: MOVIES FAMILIAR---------------------------------------------
+#EXTOPT: YTB DRAMA---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB DRAMA---------------------------------------------
 
-#EXTOPT: MOVIES DRAMA---------------------------------------------
-#EXTOPT: MOVIES DRAMA---------------------------------------------
-
-#EXTOPT: MOVIES MUSICAL---------------------------------------------
-#EXTOPT: MOVIES MUSICAL---------------------------------------------
+#EXTOPT: YTB MUSICAL---------------------------------------------
+#EXTINF: nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
+#EXTOPT: YTB MUSICAL---------------------------------------------
