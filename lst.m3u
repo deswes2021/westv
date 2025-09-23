@@ -1,4 +1,18 @@
 {
+  "MENU": [
+    {
+      "nombre": "opciones",
+      "tipo": "menu",
+      "logo": "https://raw.githubusercontent.com/deswes2021/westv/main/img/opciones.jpg",
+      "url": "opciones"
+    },
+    {
+      "nombre": "nacional",
+      "tipo": "menu",
+      "logo": "https://raw.githubusercontent.com/deswes2021/westv/main/img/nacional.jpg",
+      "url": "nacional"
+    }
+  ],
   "OPCIONES": [
     {
       "nombre": "actualizar",
