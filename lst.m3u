@@ -3,6 +3,7 @@
 #EXTOPT: MENUS---------------------------------------------
 #EXTINF: nombre="opciones" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/opciones.jpg" url="opciones"
 #EXTINF: nombre="nacional" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/nacional.jpg" url="nacional"
+#EXTINF: nombre="infantil" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/infantil.jpg" url="infantil"
 #EXTOPT: MENUS---------------------------------------------
 
 #EXTOPT: OPCIONES---------------------------------------------
@@ -28,6 +29,11 @@
 #EXTINF: nombre="canal 25" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal25.jpg" url="https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
 #EXTINF: nombre="canal 26" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal26.jpg" url="https://serversv.com:8080/hls/tvgetsemani.m3u8"
 #EXTOPT: NACIONAL---------------------------------------------
+
+#EXTOPT: INFANTIL---------------------------------------------
+#EXTINF: nombre="actualizar" tipo="infantil" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/actualizar.jpg" url="actualizar"
+#EXTINF: nombre="borrar cache" tipo="infantil" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/borrarcache.jpg" url="borrarcache"
+#EXTOPT: INFANTIL---------------------------------------------
 
 #EXTOPT: https://img.youtube.com/vi/ id /hqdefault.jpg
 
