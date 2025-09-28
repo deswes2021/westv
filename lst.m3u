@@ -22,8 +22,45 @@
 #EXTINF:-1 nombre="canal 25" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal25.jpg" url="https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
 #EXTINF:-1 nombre="canal 26" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal26.jpg" url="https://serversv.com:8080/hls/tvgetsemani.m3u8"
 
+# VARIADO
+#EXTINF:-1 nombre="xtremaanimal" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/xtremaanimal.jpg" url="https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8"
+#EXTINF:-1 nombre="cgtn" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/cgtn.jpg" url="https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+#EXTINF:-1 nombre="loveplanet" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/loveplanet.jpg" url="https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8"
+#EXTINF:-1 nombre="tln novelas" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/tlnnovelas.jpg" url="http://tv.teleclub.xyz/stream/server_3/mundo/tlnovelas/master.m3u8"
+#EXTINF:-1 nombre="rcn" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/rcn.jpg" url="http://tv.teleclub.xyz/stream/server_3/mundo/rcn/master.m3u8"
+#EXTINF:-1 nombre="history" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/history.jpg" url="http://tv.teleclub.xyz/stream/server_3/cultura/history/master.m3u8"
+#EXTINF:-1 nombre="tvfamilia" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/tvfamilia.jpg" url="https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8"
+#EXTINF:-1 nombre="cnnesp" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/cnnesp.jpg" url="https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8"
+#EXTINF:-1 nombre="tvmundo51" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/tvmundo51.jpg" url="https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8"
+#EXTINF:-1 nombre="dwtv" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/dwtv.jpg" url="https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+#EXTINF:-1 nombre="novelicima" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/novelicima.jpg" url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
+#EXTINF:-1 nombre="canelatv" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canelatv.jpg" url="https://spt-novelas-1-us.canelatv.wurl.tv/playlist.m3u8"
+#EXTINF:-1 nombre="somosnovelas" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/somosnovelas.jpg" url="https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8"
+#EXTINF:-1 nombre="corazon" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/corazon.jpg" url=""https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8"
+#EXTINF:-1 nombre="tuuniversotv" tipo="variado" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/tuuniversotv.jpg" url=""https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
+
 # INFANTIL
 #EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/0000000.jpg" url="0000000"
+
+# CINE
+#EXTINF:-1 nombre="axn" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/axn.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/axn/master.m3u8"
+#EXTINF:-1 nombre="cinecanal" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/cinecanal.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinecanal/master.m3u8"
+#EXTINF:-1 nombre="cinemax" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/cinemax.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinemax/master.m3u8"
+#EXTINF:-1 nombre="fx" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/fx.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/fx/master.m3u8"
+#EXTINF:-1 nombre="golden" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/golden.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/golden/master.m3u8"
+#EXTINF:-1 nombre="goldenpremier" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/goldenpremier.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/goldenpremier/master.m3u8"
+#EXTINF:-1 nombre="hbo" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/hbo.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8"
+#EXTINF:-1 nombre="hbo2" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/hbo2.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo2/master.m3u8"
+#EXTINF:-1 nombre="hbofamily" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/hbofamily.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo_family/master.m3u8"
+#EXTINF:-1 nombre="hbosignature" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/hbosignature.jpg" url="http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8"
+#EXTINF:-1 nombre="runtimemovie" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimemovie.jpg" url="https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8"
+#EXTINF:-1 nombre="pelimex" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/pelimex.jpg" url="https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8"
+#EXTINF:-1 nombre="todocine" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/todocine.jpg" url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565"
+#EXTINF:-1 nombre="runtimeaction" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimeaction.jpg" url="https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8"
+#EXTINF:-1 nombre="runtimeseries" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimeseries.jpg" url="https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8"
+#EXTINF:-1 nombre="cineaccion" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/cineaccion.jpg" url="https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8"
+#EXTINF:-1 nombre="runtimecomedy" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimecomedy.jpg" url="https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8"
+#EXTINF:-1 nombre="runtimecrimen" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/runtimecrimen.jpg" url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527"
 
 # YTB VIEJO OESTE
 #EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
