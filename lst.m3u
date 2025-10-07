@@ -115,7 +115,8 @@
 #EXTINF:-1 nombre="free terror" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/freeterror" url="https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8"
 #EXTINF:-1 nombre="free sureño" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/freesureño" url="https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8"
 
-
+#DEPORTES
+#EXTINF:-1 nombre="fox sport 2mx" tipo="deportes" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/foxsport2mx.jpg" url="http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8"
 
 # RELIGIOSO
 #EXTINF:-1 nombre="3abn" tipo="religioso" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/3abn.jpg" url="https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
