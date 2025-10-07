@@ -3,6 +3,7 @@
 # OPCIONES
 #EXTINF:-1 nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/actualizar.jpg" url="actualizar"
 #EXTINF:-1 nombre="borrar cache" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/borrarcache.jpg" url="borrarcache"
+#EXTINF:-1 nombre="activar teleclub" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/activarteleclub.jpg" url="https://tv.teleclub.xyz/activar"
 
 # NACIONAL
 #EXTINF:-1 nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url="https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8"
