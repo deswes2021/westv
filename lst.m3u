@@ -6,12 +6,12 @@
 #EXTINF:-1 nombre="activar teleclub" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/activarteleclub.jpg" url="https://tv.teleclub.xyz/activar"
 
 # NACIONAL
-#EXTINF:-1 nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url="https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8"
-#EXTINF:-1 nombre="canal 2" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal2.jpg" url="https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8"
+#EXTINF:-1 nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url="https://cdn.jwplayer.com/live/broadcast/qGocjB5h.m3u8"
+#EXTINF:-1 nombre="canal 2" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal2.jpg" url="https://cdn.jwplayer.com/live/broadcast/48WUA30M.m3u8"
 #EXTINF:-1 nombre="canal 3" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal3.jpg" url="https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8"
-#EXTINF:-1 nombre="canal 4" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal4.jpg" url="https://telecorporacion.cdn.vustreams.com/live/ed89f096-00b1-4d6e-806a-ad9064a603e3/live.isml/.m3u8"
+#EXTINF:-1 nombre="canal 4" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal4.jpg" url="https://cdn.jwplayer.com/live/broadcast/l0LLhNkf.m3u8"
 #EXTINF:-1 nombre="canal 5" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal5.jpg" url="https://cdn.elsalvadordigital.com:1936/wotvw/smil:wotvw.smil/playlist.m3u8"
-#EXTINF:-1 nombre="canal 6" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal6.jpg" url="https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8"
+#EXTINF:-1 nombre="canal 6" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal6.jpg" url="https://cdn.jwplayer.com/live/broadcast/3oK4OK77.m3u8"
 #EXTINF:-1 nombre="canal 7" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal7.jpg" url="https://cdn.elsalvadordigital.com:1936/wotvw/smil:wotvw.smil/playlist.m3u8"
 #EXTINF:-1 nombre="canal 8" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal8.jpg" url="http://201.247.102.189/tmp_hls/stream/index.m3u8"
 #EXTINF:-1 nombre="canal 9" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal9.jpg" url="https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
