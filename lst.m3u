@@ -3,7 +3,6 @@
 # OPCIONES
 #EXTINF:-1 nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/actualizar.jpg" url="actualizar"
 #EXTINF:-1 nombre="borrar cache" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/borrarcache.jpg" url="borrarcache"
-#EXTINF:-1 nombre="activar teleclub" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/activarteleclub.jpg" url="https://tv.teleclub.xyz/activar"
 
 # NACIONAL
 #EXTINF:-1 nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url="https://cdn.jwplayer.com/live/broadcast/qGocjB5h.m3u8"
@@ -126,44 +125,3 @@
 #EXTINF:-1 nombre="avivamientohd" tipo="religioso" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/avivamientohd.jpg" url="https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
 #EXTINF:-1 nombre="cielo tv" tipo="religioso" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/cielotv.jpg" url="https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
 #EXTINF:-1 nombre="diosteve tv" tipo="religioso" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/diostevetv.jpg" url="https://s.emisoras.tv:8081/diostevetv/index.m3u8"
-
-# MUSICA
-#EXTINF:-1 nombre="activa tv" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/activatv.jpg" url="https://streamtv.mediasector.es/hls/activatv/index.m3u8"
-#EXTINF:-1 nombre="america estereo guayaquil" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/americaestereoguayaquil.jpg" url="https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
-#EXTINF:-1 nombre="america estereo quito" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/americaestereoquito.jpg" url="https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8"
-#EXTINF:-1 nombre="Angienet" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/angienet.jpg" url="https://servilive.com:3624/stream/play.m3u8"
-#EXTINF:-1 nombre="conecta tvx" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/conectatvx.jpg" url="https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
-#EXTINF:-1 nombre="dismar tv" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/dismartv.jpg" url="https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
-#EXTINF:-1 nombre="hit tv" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/hittv.jpg" url="http://185.189.225.149/HitTV/index.m3u8"
-#EXTINF:-1 nombre="latinzone tv" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/latinzonetv.jpg" url="https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
-#EXTINF:-1 nombre="peraviavision" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/peraviavision.jpg" url="https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8"
-
-# YTB VIEJO OESTE
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB GUERRA
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB DOCUMENTAL
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB HORROR
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB FICCION
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB ANIME
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB BABY
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB FAMILIAR
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB DRAMA
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
-
-# YTB MUSICAL
-#EXTINF:-1 nombre="0000000" tipo="0000000" logo="https://img.youtube.com/vi/0000000/hqdefault.jpg" url="0000000"
