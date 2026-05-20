@@ -1,9 +1,5 @@
 #EXTM3U
 
-# OPCIONES
-#EXTINF:-1 nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/actualizar.jpg" url="actualizar"
-#EXTINF:-1 nombre="borrar cache" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/borrarcache.jpg" url="borrarcache"
-
 # NACIONAL
 #EXTINF:-1 nombre="evento" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal0.jpg" url="https://cdn.jwplayer.com/manifests/UkDJxD5g.m3u8"
 #EXTINF:-1 nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/westv/main/img/canal1.jpg" url=""
